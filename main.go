@@ -76,7 +76,16 @@ func processSingleCategory(fileName string) {
 				suffixes[entry.Value] = true
 				count++
 			}
-		} else {
+		} else if entry.Prefix == "DOMAIN" {
+            if !isSubdomain(entry.Value, suffixes) && !suffixes[entry.Value] {
+                fullLine := entry.Prefix + "," + entry.Value
+                if !others[fullLine] {
+                    writer.WriteString(fullLine + "\n")
+                    others[fullLine] = true
+                    count++
+                }
+            }
+        } else {
 			fullLine := entry.Prefix + "," + entry.Value
 			if !others[fullLine] {
 				writer.WriteString(fullLine + "\n")
@@ -136,12 +145,13 @@ func collectEntries(path string, entries *[]Entry, processed map[string]bool) er
 }
 
 func isSubdomain(domain string, suffixes map[string]bool) bool {
-	parts := strings.Split(domain, ".")
-	for i := len(parts) - 1; i > 0; i-- {
-		parent := strings.Join(parts[i:], ".")
-		if suffixes[parent] {
-			return true
-		}
-	}
-	return false
+    for i := 0; i < len(domain); i++ {
+        if domain[i] == '.' {
+            parent := domain[i+1:]
+            if suffixes[parent] {
+                return true
+            }
+        }
+    }
+    return false
 }
