@@ -4,4 +4,3 @@ DOMAIN,hap.10010.com
 DOMAIN-SUFFIX,cmpassport.com
 DOMAIN,enrichgw.10010.com
 DOMAIN,opencloud.wostore.cn
-DOMAIN-SUFFIX,regexp:^nis.+\.10010\.com$

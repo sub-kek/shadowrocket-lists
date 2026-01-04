@@ -34,16 +34,16 @@ DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,googleoptimize-cn.com
 DOMAIN-SUFFIX,app-measurement-cn.com
 DOMAIN-SUFFIX,partnerad.l.google.com
-DOMAIN-SUFFIX,advertisercommunity.com
 DOMAIN-SUFFIX,adtrafficquality.google
-DOMAIN-SUFFIX,googleadservices-cn.com
-DOMAIN-SUFFIX,googletagmanager-cn.com
 DOMAIN-SUFFIX,google-analytics-cn.com
-DOMAIN-SUFFIX,googletagservices-cn.com
+DOMAIN-SUFFIX,advertisercommunity.com
+DOMAIN-SUFFIX,googletagmanager-cn.com
+DOMAIN-SUFFIX,googleadservices-cn.com
+DOMAIN-SUFFIX,analytics-alv.google.com
 DOMAIN-SUFFIX,advertiserscommunity.com
 DOMAIN-SUFFIX,googlesyndication-cn.com
+DOMAIN-SUFFIX,googletagservices-cn.com
 DOMAIN-SUFFIX,adsenseformobileapps.com
-DOMAIN-SUFFIX,analytics-alv.google.com
 DOMAIN-SUFFIX,googleadapis.l.google.com
 DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,app-analytics-services.com
@@ -51,4 +51,3 @@ DOMAIN-SUFFIX,adsensecustomsearchads.com
 DOMAIN-SUFFIX,marketingplatform.google.com
 DOMAIN-SUFFIX,googletraveladservices-cn.com
 DOMAIN-SUFFIX,app-analytics-services-att.com
-DOMAIN-SUFFIX,regexp:^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$

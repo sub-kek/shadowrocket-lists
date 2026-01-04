@@ -1,10 +1,4 @@
 DOMAIN-SUFFIX,pki.goog
-DOMAIN,c.pki.goog
-DOMAIN,i.pki.goog
-DOMAIN,o.pki.goog
-DOMAIN,crl.pki.goog
-DOMAIN,crls.pki.goog
-DOMAIN,ocsp.pki.goog
 DOMAIN,pki.google.com
 DOMAIN,clients1.google.com
 DOMAIN,pki-goog.l.google.com

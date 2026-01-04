@@ -29,4 +29,3 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,blob.core.windows.net
 DOMAIN,github-api.arkoselabs.com
 DOMAIN,github-cloud.s3.amazonaws.com
-DOMAIN-SUFFIX,regexp:^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$

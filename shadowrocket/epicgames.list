@@ -26,6 +26,3 @@ DOMAIN-SUFFIX,battlebreakers.com
 DOMAIN-SUFFIX,capturingreality.com
 DOMAIN-SUFFIX,unrealtournament.com
 DOMAIN-SUFFIX,egdownload.fastly-edge.com
-DOMAIN-SUFFIX,regexp:^epicgames-download\d\.akamaized\.net$
-DOMAIN-SUFFIX,regexp:^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-DOMAIN-SUFFIX,regexp:^epicgames-download\d-\d+\.file\.myqcloud\.com$

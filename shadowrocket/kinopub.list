@@ -2,4 +2,3 @@ DOMAIN-SUFFIX,gfw.ovh
 DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,mos-gorsud.co
 DOMAIN-SUFFIX,kinopub.online
-DOMAIN-SUFFIX,regexp:(\w+)-static-[0-9]+\.cdntogo\.net$

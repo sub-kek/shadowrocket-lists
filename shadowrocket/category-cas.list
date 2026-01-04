@@ -133,9 +133,6 @@ DOMAIN-SUFFIX,netlock.hu
 DOMAIN-SUFFIX,actalis.it
 DOMAIN-SUFFIX,buypass.se
 DOMAIN-SUFFIX,msocsp.com
-DOMAIN,c.pki.goog
-DOMAIN,i.pki.goog
-DOMAIN,o.pki.goog
 DOMAIN-SUFFIX,trustdoc.ch
 DOMAIN-SUFFIX,vodafone.de
 DOMAIN-SUFFIX,entrust.com
@@ -249,16 +246,13 @@ DOMAIN-SUFFIX,ecert.gov.hk
 DOMAIN-SUFFIX,yahoodns.net
 DOMAIN-SUFFIX,trustcor.com
 DOMAIN-SUFFIX,digicert.com
-DOMAIN,crl.pki.goog
 DOMAIN-SUFFIX,geotrust.com
 DOMAIN-SUFFIX,rapidssl.com
 DOMAIN-SUFFIX,comodoca4.com
 DOMAIN-SUFFIX,globalsign.fr
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,netsolssl.com
-DOMAIN,crls.pki.goog
 DOMAIN-SUFFIX,comodoca2.com
-DOMAIN,ocsp.pki.goog
 DOMAIN-SUFFIX,eca.hinet.net
 DOMAIN-SUFFIX,comodoca3.com
 DOMAIN-SUFFIX,digital-id.ch
@@ -297,7 +291,6 @@ DOMAIN-SUFFIX,secomtrust.net
 DOMAIN-SUFFIX,camerfirma.com
 DOMAIN-SUFFIX,instantssl.com
 DOMAIN-SUFFIX,trendmicro.com
-DOMAIN,www.entrust.cn
 DOMAIN,pki.google.com
 DOMAIN-SUFFIX,optimumssl.com
 DOMAIN-SUFFIX,trustisfps.com
@@ -357,7 +350,6 @@ DOMAIN-SUFFIX,enterprisessl.com
 DOMAIN-SUFFIX,globalsigncdn.com
 DOMAIN-SUFFIX,ssl-certificate.ch
 DOMAIN-SUFFIX,quovadisglobal.com
-DOMAIN,crl.globalsign.net
 DOMAIN-SUFFIX,hackerguardian.com
 DOMAIN-SUFFIX,publicca.hinet.net
 DOMAIN,ocsp.microsoft.com

@@ -4,8 +4,8 @@ DOMAIN-SUFFIX,mhyurl.cn
 DOMAIN-SUFFIX,mihayo.com
 DOMAIN-SUFFIX,mihoyo.com
 DOMAIN-SUFFIX,mihayou.com
-DOMAIN-SUFFIX,miyoushe.com
 DOMAIN-SUFFIX,benghuai.com
+DOMAIN-SUFFIX,miyoushe.com
 DOMAIN-SUFFIX,mihoyocg.com
 DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,mhystatic.com
@@ -13,4 +13,3 @@ DOMAIN-SUFFIX,juequling.com
 DOMAIN-SUFFIX,mihoyomall.com
 DOMAIN-SUFFIX,mihoyogift.com
 DOMAIN-SUFFIX,themisweeps.com
-DOMAIN-SUFFIX,regexp:^.+-mihayo\.akamaized\.net$

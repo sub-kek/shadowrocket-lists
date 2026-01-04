@@ -7,4 +7,3 @@ DOMAIN-SUFFIX,azurecr.io
 DOMAIN-SUFFIX,registry.k8s.io
 DOMAIN-SUFFIX,mcr.microsoft.com
 DOMAIN-SUFFIX,registry.gitlab.com
-DOMAIN-SUFFIX,regexp:.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
