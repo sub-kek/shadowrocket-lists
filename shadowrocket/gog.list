@@ -1,0 +1,13 @@
+DOMAIN-SUFFIX,gog.com
+DOMAIN,gog.qtlglb.com
+DOMAIN-SUFFIX,gog-statics.com
+DOMAIN,gog-cdn.akamaized.net
+DOMAIN,gog-cdn-fastly.gog.com
+DOMAIN,gogalaxy.gog-statics.com
+DOMAIN,menu-static.gog-statics.com
+DOMAIN,productcard.gog-statics.com
+DOMAIN,www4-static.gog-statics.com
+DOMAIN,static-login.gog-statics.com
+DOMAIN-SUFFIX,regexp:^gog-cdn-.+\.footprint\.net$
+DOMAIN-SUFFIX,regexp:^images(-\d)?\.gog-statics\.com$
+DOMAIN-SUFFIX,regexp:^cdn-akamai-.+\.gog-services\.com$
