@@ -1,0 +1,35 @@
+name: Update Shadowrocket Lists
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout your repo
+        uses: actions/checkout@v4
+
+      - name: Download v2fly data
+        run: |
+          git clone --depth 1 https://github.com/v2fly/domain-list-community.git v2fly-data
+
+      - name: Set up Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.25.5'
+
+      - name: Clean old output
+        run: rm -rf shadowrocket
+
+      - name: Run generator
+        run: go run main.go
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "subbkek@gmail.com"
+          git config --local user.name "sub-kek"
+          git add shadowrocket/ 
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update rulesets: $(date +'%Y-%m-%d')" && git push)
