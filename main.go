@@ -124,7 +124,8 @@ func collectEntries(path string, entries *[]Entry, processed map[string]bool) er
 			p, v = "DOMAIN", strings.TrimPrefix(line, "full:")
 		case strings.HasPrefix(line, "keyword:"):
 			p, v = "DOMAIN-KEYWORD", strings.TrimPrefix(line, "keyword:")
-		// case strings.HasPrefix(line, "regexp:"):
+		case strings.HasPrefix(line, "regexp:"):
+			continue
 		// 	p, v = "DOMAIN-WILDCARD", strings.TrimPrefix(line, "regexp:")
 		default:
 			p, v = "DOMAIN-SUFFIX", strings.TrimPrefix(line, "domain:")
