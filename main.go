@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
-	"sort"
 	"strings"
 )
 
@@ -51,10 +50,6 @@ func processSingleCategory(fileName string) {
 		fmt.Printf("  [!] Error in %s: %v\n", fileName, err)
 		return
 	}
-
-	sort.Slice(allEntries, func(i, j int) bool {
-		return len(allEntries[i].Value) < len(allEntries[j].Value)
-	})
 
 	outPath := filepath.Join(outputDir, fileName+".list")
 	out, err := os.Create(outPath)
