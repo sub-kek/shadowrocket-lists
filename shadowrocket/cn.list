@@ -1031,6 +1031,7 @@ DOMAIN-SUFFIX,xueqiu.com
 DOMAIN-SUFFIX,ynet.com
 DOMAIN-SUFFIX,21jingji.com
 DOMAIN-SUFFIX,admin5.com
+DOMAIN-SUFFIX,anhuinews.com
 DOMAIN-SUFFIX,bianews.com
 DOMAIN-SUFFIX,cailianpress.com
 DOMAIN-SUFFIX,caixin.com
@@ -1048,6 +1049,7 @@ DOMAIN-SUFFIX,cztv.com
 DOMAIN-SUFFIX,cztvcdn.com
 DOMAIN-SUFFIX,cztvcloud.com
 DOMAIN-SUFFIX,zjstv.com
+DOMAIN-SUFFIX,dutenews.com
 DOMAIN-SUFFIX,yundzh.com
 DOMAIN-SUFFIX,dgtle.com
 DOMAIN-SUFFIX,donews.com
@@ -1102,6 +1104,8 @@ DOMAIN-SUFFIX,southcn.com
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,stockstar.com
 DOMAIN-SUFFIX,stcn.com
+DOMAIN-SUFFIX,sznews.com
+DOMAIN-SUFFIX,szpgm.com
 DOMAIN-SUFFIX,takungpao.com
 DOMAIN-SUFFIX,ths123.com
 DOMAIN-SUFFIX,woshipm.com
@@ -2117,6 +2121,7 @@ DOMAIN-SUFFIX,variflight.com
 DOMAIN-SUFFIX,xiamenair.com
 DOMAIN-SUFFIX,ccrgt.com
 DOMAIN-SUFFIX,kuajing84.com
+DOMAIN-SUFFIX,mygolbs.com
 DOMAIN-SUFFIX,ningtingche.com
 DOMAIN-SUFFIX,umetrip.com
 DOMAIN-SUFFIX,chinesemooc.org
@@ -2589,6 +2594,9 @@ DOMAIN-SUFFIX,zdnscloud.info
 DOMAIN-SUFFIX,zdnscloud.net
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,dutils.com
+DOMAIN-SUFFIX,hiaiabc.com
+DOMAIN-SUFFIX,mobsdks.com
+DOMAIN-SUFFIX,yksdks.com
 DOMAIN-SUFFIX,tianpeng.com
 DOMAIN-SUFFIX,zbj.com
 DOMAIN-SUFFIX,zbjdev.com
@@ -4263,11 +4271,14 @@ DOMAIN-SUFFIX,isdspeed.qq.com
 DOMAIN-SUFFIX,log.tbs.qq.com
 DOMAIN-SUFFIX,mdt.qq.com
 DOMAIN-SUFFIX,monitor.music.qq.com
+DOMAIN-SUFFIX,monitor.uu.qq.com
 DOMAIN-SUFFIX,mpush.qq.com
 DOMAIN-SUFFIX,mtrace.qq.com
 DOMAIN-SUFFIX,pingjs.qq.com
+DOMAIN-SUFFIX,pmir.3g.qq.com
 DOMAIN-SUFFIX,push.qq.com
 DOMAIN-SUFFIX,report.qqweb.qq.com
+DOMAIN-SUFFIX,rmonitor.qq.com
 DOMAIN-SUFFIX,sngmta.qq.com
 DOMAIN-SUFFIX,stat.y.qq.com
 DOMAIN-SUFFIX,tajs.qq.com
@@ -4350,7 +4361,9 @@ DOMAIN-SUFFIX,logupdate.avlyun.sec.miui.com
 DOMAIN-SUFFIX,misc.in.duokanbox.com
 DOMAIN-SUFFIX,sentry.d.mi.com
 DOMAIN-SUFFIX,sentry.d.xiaomi.net
+DOMAIN-SUFFIX,stats.music.xiaomi.com
 DOMAIN-SUFFIX,tracker.ai.xiaomi.com
+DOMAIN-SUFFIX,tracker.xiaomixiaoai.com
 DOMAIN-SUFFIX,tracking.miui.com
 DOMAIN-SUFFIX,mgslb.com
 DOMAIN-SUFFIX,mi-idc.com
@@ -4443,6 +4456,7 @@ DOMAIN-SUFFIX,migucloud.com
 DOMAIN-SUFFIX,migufun.com
 DOMAIN-SUFFIX,miguvideo.com
 DOMAIN-SUFFIX,andfx.net
+DOMAIN-SUFFIX,cmicapm.com
 DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,fetion-portal.com
 DOMAIN-SUFFIX,fetionpic.com
