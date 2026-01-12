@@ -13,12 +13,15 @@ DOMAIN,rtlog3-applog-hl.fqnovel.com
 DOMAIN,rtlog3-applog.fqnovel.com
 DOMAIN,rtlog5-applog-hl.fqnovel.com
 DOMAIN,rtlog5-applog.fqnovel.com
+DOMAIN-SUFFIX,ad.toutiao.com
+DOMAIN-SUFFIX,analytics.tiktok.com
 DOMAIN-SUFFIX,bds.snssdk.com
 DOMAIN-SUFFIX,byteadverts.com
 DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,dig.bdurl.net
 DOMAIN-SUFFIX,extlog.snssdk.com
 DOMAIN-SUFFIX,i.snssdk.com
+DOMAIN-SUFFIX,log.zijieapi.com
 DOMAIN-SUFFIX,mcs.snssdk.com
 DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com
 DOMAIN-SUFFIX,pangolin-dsp-toutiao.com

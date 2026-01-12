@@ -1166,8 +1166,6 @@ DOMAIN-SUFFIX,duowan.com
 DOMAIN-SUFFIX,dwstatic.com
 DOMAIN-SUFFIX,yy.com
 DOMAIN-SUFFIX,yystatic.com
-DOMAIN-SUFFIX,crash2.zhihu.com
-DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,tieba.baidu.com
@@ -3043,11 +3041,14 @@ DOMAIN-SUFFIX,beisenpaas.com
 DOMAIN-SUFFIX,bsurl.cc
 DOMAIN-SUFFIX,zhiye.com
 DOMAIN-SUFFIX,bluepoch.com
+DOMAIN-SUFFIX,ad.toutiao.com
+DOMAIN-SUFFIX,analytics.tiktok.com
 DOMAIN-SUFFIX,bds.snssdk.com
 DOMAIN-SUFFIX,byteadverts.com
 DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,extlog.snssdk.com
 DOMAIN-SUFFIX,i.snssdk.com
+DOMAIN-SUFFIX,log.zijieapi.com
 DOMAIN-SUFFIX,mcs.snssdk.com
 DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com
 DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
@@ -4277,6 +4278,7 @@ DOMAIN-SUFFIX,mtrace.qq.com
 DOMAIN-SUFFIX,pingjs.qq.com
 DOMAIN-SUFFIX,pmir.3g.qq.com
 DOMAIN-SUFFIX,push.qq.com
+DOMAIN-SUFFIX,qqdata.ab.qq.com
 DOMAIN-SUFFIX,report.qqweb.qq.com
 DOMAIN-SUFFIX,rmonitor.qq.com
 DOMAIN-SUFFIX,sngmta.qq.com
@@ -4285,6 +4287,7 @@ DOMAIN-SUFFIX,tajs.qq.com
 DOMAIN-SUFFIX,tcss.qq.com
 DOMAIN-SUFFIX,tmead.y.qq.com
 DOMAIN-SUFFIX,tmeadcomm.y.qq.com
+DOMAIN-SUFFIX,tpstelemetry.tencent.com
 DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,wit.qq.com
