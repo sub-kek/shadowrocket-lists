@@ -15712,8 +15712,16 @@ DOMAIN-SUFFIX,zohowebstatic.com
 DOMAIN-SUFFIX,zoom.com
 DOMAIN-SUFFIX,zoom.com.cn
 DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,auroraoss.com
 DOMAIN-SUFFIX,biliplus.com
-DOMAIN-SUFFIX,originlab.com
+DOMAIN-SUFFIX,cataboom.com
+DOMAIN-SUFFIX,consentpro.com
+DOMAIN-SUFFIX,cookiepro.com
+DOMAIN-SUFFIX,cookielaw.org
+DOMAIN-SUFFIX,onetrust.com
+DOMAIN-SUFFIX,osano.com
+DOMAIN-SUFFIX,usercentrics.eu
+DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,cloudlatex.io
 DOMAIN-SUFFIX,overleaf.com
 DOMAIN-SUFFIX,linguee.com
@@ -15721,10 +15729,7 @@ DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,collinsdictionary.com
 DOMAIN-SUFFIX,ldoceonline.com
 DOMAIN-SUFFIX,immersivetranslate.com
-DOMAIN-SUFFIX,auroraoss.com
-DOMAIN-SUFFIX,cookiepro.com
-DOMAIN-SUFFIX,cookielaw.org
-DOMAIN-SUFFIX,onetrust.com
+DOMAIN-SUFFIX,originlab.com
 DOMAIN-SUFFIX,anaconda.cloud
 DOMAIN-SUFFIX,anaconda.com
 DOMAIN-SUFFIX,anaconda.org
@@ -21956,7 +21961,6 @@ DOMAIN-SUFFIX,rarbgunblocked.org
 DOMAIN-SUFFIX,rarbgway.org
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,rutor.info
-DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,928.plus
 DOMAIN-SUFFIX,zind.cloud
 DOMAIN-SUFFIX,boslife.biz
