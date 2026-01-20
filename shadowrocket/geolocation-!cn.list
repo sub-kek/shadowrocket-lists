@@ -62,6 +62,8 @@ DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,hf.space
 DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,liveperson.net
+DOMAIN-SUFFIX,lpsnmedia.net
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,oaistatic.com
@@ -88,6 +90,9 @@ DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grok.x.com
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,youmind.ai
+DOMAIN-SUFFIX,youmind.com
+DOMAIN-SUFFIX,youmind.site
 DOMAIN-SUFFIX,coderabbit.ai
 DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
 DOMAIN-SUFFIX,cohere.ai
@@ -1652,6 +1657,10 @@ DOMAIN-SUFFIX,schwab.com.hk
 DOMAIN-SUFFIX,schwab.com.sg
 DOMAIN-SUFFIX,schwabassetmanagement.com
 DOMAIN-SUFFIX,schwabplan.com
+DOMAIN-SUFFIX,sc.com
+DOMAIN-SUFFIX,standardchartered.com
+DOMAIN,standchartbank.sc.omtrdc.net
+DOMAIN,standchartbank.tt.omtrdc.net
 DOMAIN-SUFFIX,transferwise.com
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,fxcorporate.com

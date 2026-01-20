@@ -431,7 +431,6 @@ DOMAIN-SUFFIX,segment.com
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,segmenthub.com
 DOMAIN-SUFFIX,segmentify.com
-DOMAIN-SUFFIX,static.sensorsdata.cn
 DOMAIN-SUFFIX,ad.sina.com.cn
 DOMAIN-SUFFIX,ad.us.sinaimg.cn
 DOMAIN-SUFFIX,adbox.sina.com.cn
@@ -709,6 +708,7 @@ DOMAIN-SUFFIX,ipinyou.com.cn
 DOMAIN-SUFFIX,optaim.com
 DOMAIN-SUFFIX,reachmax.cn
 DOMAIN-SUFFIX,reyun.com
+DOMAIN-SUFFIX,static.sensorsdata.cn
 DOMAIN-SUFFIX,zhugeapi.com
 DOMAIN-SUFFIX,zhugeapi.net
 DOMAIN-SUFFIX,zhugeio.com

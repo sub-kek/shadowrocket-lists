@@ -121,8 +121,8 @@ DOMAIN-SUFFIX,hikunpeng.net
 DOMAIN-SUFFIX,hisilicon.com
 DOMAIN-SUFFIX,huaweiapaas.com
 DOMAIN-SUFFIX,owsgo.com
-DOMAIN-SUFFIX,teleows.com
 DOMAIN-SUFFIX,saasops.tech
+DOMAIN-SUFFIX,teleows.com
 DOMAIN-SUFFIX,juejin.im
 DOMAIN-SUFFIX,xitu.io
 DOMAIN,p1-juejin.byteimg.com
@@ -2072,7 +2072,7 @@ DOMAIN-SUFFIX,b3logfile.com
 DOMAIN-SUFFIX,hacpai.com
 DOMAIN-SUFFIX,ld246.com
 DOMAIN-SUFFIX,kechuang.org
-DOMAIN,kc.kexinshe.com
+DOMAIN-SUFFIX,kexinshe.com
 DOMAIN-SUFFIX,178.com
 DOMAIN-SUFFIX,ngabbs.com
 DOMAIN-SUFFIX,ngacn.cc
@@ -2287,6 +2287,7 @@ DOMAIN-SUFFIX,htcases.com
 DOMAIN-SUFFIX,hwshu.com
 DOMAIN-SUFFIX,incopat.com
 DOMAIN-SUFFIX,lawyee.org
+DOMAIN-SUFFIX,libvideo.com
 DOMAIN-SUFFIX,neohytung.com
 DOMAIN-SUFFIX,nmrdata.com
 DOMAIN-SUFFIX,pkulaw.com
@@ -2296,7 +2297,6 @@ DOMAIN-SUFFIX,tongxianghuicn.com
 DOMAIN-SUFFIX,twscholar.com
 DOMAIN-SUFFIX,wenxin-ge.com
 DOMAIN-SUFFIX,yiigle.com
-DOMAIN,www.libvideo.com
 DOMAIN-SUFFIX,fgo.wiki
 DOMAIN-SUFFIX,jikipedia.com
 DOMAIN-SUFFIX,mbalib.com
@@ -4388,6 +4388,10 @@ DOMAIN-SUFFIX,stats.music.xiaomi.com
 DOMAIN-SUFFIX,tracker.ai.xiaomi.com
 DOMAIN-SUFFIX,tracker.xiaomixiaoai.com
 DOMAIN-SUFFIX,tracking.miui.com
+DOMAIN-SUFFIX,account.xiaomi.com
+DOMAIN-SUFFIX,cn-ha.mqtt.io.mi.com
+DOMAIN-SUFFIX,ha.api.io.mi.com
+DOMAIN-SUFFIX,miot-spec.org
 DOMAIN-SUFFIX,mgslb.com
 DOMAIN-SUFFIX,mi-idc.com
 DOMAIN-SUFFIX,mi-img.com
