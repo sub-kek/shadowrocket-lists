@@ -4844,6 +4844,8 @@ DOMAIN-SUFFIX,udemycdn.com
 DOMAIN-SUFFIX,w3schools.com
 DOMAIN-SUFFIX,zotero.org
 DOMAIN-SUFFIX,chemequations.com
+DOMAIN-SUFFIX,geogebra.org
+DOMAIN-SUFFIX,wolframalpha.com
 DOMAIN-SUFFIX,colorfulstage.com
 DOMAIN-SUFFIX,crypton.co.jp
 DOMAIN-SUFFIX,lapriere.jp
@@ -22075,6 +22077,7 @@ DOMAIN-SUFFIX,wmcloud.org
 DOMAIN-SUFFIX,wmflabs.org
 DOMAIN-SUFFIX,atwiki.jp
 DOMAIN-SUFFIX,touhouwiki.net
+DOMAIN-SUFFIX,wiki.gg
 DOMAIN-SUFFIX,avxhm.se
 DOMAIN-SUFFIX,avh.world
 DOMAIN-SUFFIX,avxde.org
