@@ -64,8 +64,9 @@ DOMAIN-SUFFIX,hf.space
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,liveperson.net
 DOMAIN-SUFFIX,lpsnmedia.net
-DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,crixet.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
@@ -73,10 +74,10 @@ DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicom.imgix.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,o33249.ingest.sentry.io
-DOMAIN,openaicom.imgix.net
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,host.livekit.cloud
@@ -4887,6 +4888,15 @@ DOMAIN-SUFFIX,worldofwarcraft.com
 DOMAIN-SUFFIX,bluearchive.jp
 DOMAIN-SUFFIX,bluearchive.nexon.com
 DOMAIN-SUFFIX,bluearchive-cn.com
+DOMAIN-SUFFIX,arma3.com
+DOMAIN-SUFFIX,armaplatform.com
+DOMAIN-SUFFIX,bistudio.com
+DOMAIN-SUFFIX,bohemia.net
+DOMAIN-SUFFIX,dayz.com
+DOMAIN-SUFFIX,makearmanotwar.com
+DOMAIN-SUFFIX,silicagame.com
+DOMAIN-SUFFIX,vigorgame.com
+DOMAIN-SUFFIX,ylands.com
 DOMAIN-SUFFIX,curseforge.com
 DOMAIN-SUFFIX,forgecdn.net
 DOMAIN-SUFFIX,cygames.jp
@@ -15219,6 +15229,7 @@ DOMAIN-SUFFIX,rpglogs.cn
 DOMAIN-SUFFIX,thetrackernetwork.com
 DOMAIN-SUFFIX,tracker.gg
 DOMAIN-SUFFIX,tracker.network
+DOMAIN-SUFFIX,battleye.com
 DOMAIN-SUFFIX,bluestacks.com
 DOMAIN-SUFFIX,ldmnq.com
 DOMAIN-SUFFIX,lsplayer.com
