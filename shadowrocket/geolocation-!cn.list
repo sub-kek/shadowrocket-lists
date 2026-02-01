@@ -3081,6 +3081,7 @@ DOMAIN-SUFFIX,binanceapi.com
 DOMAIN-SUFFIX,binanceru.net
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,bsappapi.com
 DOMAIN-SUFFIX,nftstatic.com
 DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,saasexch.cc
@@ -5287,6 +5288,7 @@ DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 DOMAIN-SUFFIX,sekai.colorfulpalette.org
+DOMAIN-SUFFIX,pjsekai.sega.jp
 DOMAIN-SUFFIX,kraftonde.com
 DOMAIN-SUFFIX,playbattlegrounds.com
 DOMAIN-SUFFIX,pubg.com
@@ -16104,6 +16106,7 @@ DOMAIN,default.exp-tas.com
 DOMAIN,developer.microsoft.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,dtlgalleryint.cloudapp.net
+DOMAIN,packages.microsoft.com
 DOMAIN,poshtestgallery.cloudapp.net
 DOMAIN,psg-int-centralus.cloudapp.net
 DOMAIN,psg-int-eastus.cloudapp.net
