@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,elevenlabs.com
 DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,geller-pa.googleapis.com
@@ -15766,6 +15767,7 @@ DOMAIN-SUFFIX,collinsdictionary.com
 DOMAIN-SUFFIX,ldoceonline.com
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,originlab.com
+DOMAIN-SUFFIX,osmand.net
 DOMAIN-SUFFIX,anaconda.cloud
 DOMAIN-SUFFIX,anaconda.com
 DOMAIN-SUFFIX,anaconda.org
@@ -15959,7 +15961,6 @@ DOMAIN-SUFFIX,github.dev
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,githubhackathon.com
 DOMAIN-SUFFIX,githubnext.com
 DOMAIN-SUFFIX,githubpreview.dev
