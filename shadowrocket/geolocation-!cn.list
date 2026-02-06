@@ -65,6 +65,8 @@ DOMAIN-SUFFIX,hf.space
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,liveperson.net
 DOMAIN-SUFFIX,lpsnmedia.net
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,manuscdn.com
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,crixet.com
@@ -15690,6 +15692,7 @@ DOMAIN-SUFFIX,err.sh
 DOMAIN-SUFFIX,hyper.is
 DOMAIN-SUFFIX,nextjs.org
 DOMAIN-SUFFIX,now.sh
+DOMAIN-SUFFIX,skills.sh
 DOMAIN-SUFFIX,static.fun
 DOMAIN-SUFFIX,title.sh
 DOMAIN-SUFFIX,turborepo.org
