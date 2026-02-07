@@ -91,6 +91,10 @@ DOMAIN-SUFFIX,pplx.ai
 DOMAIN,pplx-res.cloudinary.com
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,poecdn.net
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,codeiumdata.com
+DOMAIN-SUFFIX,windsurf.build
+DOMAIN-SUFFIX,windsurf.com
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grok.x.com
 DOMAIN-SUFFIX,x.ai

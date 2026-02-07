@@ -22,6 +22,8 @@ DOMAIN-SUFFIX,psk
 DOMAIN-SUFFIX,fix-price.com
 DOMAIN-SUFFIX,lenta.com
 DOMAIN-SUFFIX,lenta.tech
+DOMAIN-SUFFIX,avs.io
+DOMAIN-SUFFIX,aviasales.com
 DOMAIN-SUFFIX,mosmetro.tech
 DOMAIN-SUFFIX,avito.st
 DOMAIN-SUFFIX,mycdn.me
@@ -114,6 +116,7 @@ DOMAIN-SUFFIX,yandexwebcache.org
 DOMAIN-SUFFIX,yastat.net
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+DOMAIN,yandex-pogoda.static-storage.net
 DOMAIN-SUFFIX,dodopizza.com
 DOMAIN-SUFFIX,dodostatic.net
 DOMAIN-SUFFIX,dodois.com
