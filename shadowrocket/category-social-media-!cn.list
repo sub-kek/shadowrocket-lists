@@ -395,8 +395,7 @@ DOMAIN-SUFFIX,redkix.com
 DOMAIN-SUFFIX,workplace.com
 DOMAIN-SUFFIX,workplaceusecases.com
 DOMAIN,fbcdn-a.akamaihd.net
-DOMAIN-SUFFIX,graph.instagram.com
-DOMAIN-SUFFIX,graph-fallback.instagram.com
+DOMAIN-SUFFIX,facebookads.com
 DOMAIN-SUFFIX,achat-followers-instagram.com
 DOMAIN-SUFFIX,acheter-followers-instagram.com
 DOMAIN-SUFFIX,acheterdesfollowersinstagram.com

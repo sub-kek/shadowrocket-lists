@@ -392,6 +392,7 @@ DOMAIN-SUFFIX,redkix.com
 DOMAIN-SUFFIX,workplace.com
 DOMAIN-SUFFIX,workplaceusecases.com
 DOMAIN,fbcdn-a.akamaihd.net
+DOMAIN-SUFFIX,facebookads.com
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,atscaleconference.com
 DOMAIN-SUFFIX,botorch.org
@@ -434,8 +435,6 @@ DOMAIN-SUFFIX,recoiljs.org
 DOMAIN-SUFFIX,rocksdb.com
 DOMAIN-SUFFIX,rocksdb.net
 DOMAIN-SUFFIX,yogalayout.com
-DOMAIN-SUFFIX,graph.instagram.com
-DOMAIN-SUFFIX,graph-fallback.instagram.com
 DOMAIN-SUFFIX,achat-followers-instagram.com
 DOMAIN-SUFFIX,acheter-followers-instagram.com
 DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
@@ -531,8 +530,6 @@ DOMAIN-SUFFIX,oculusvr.com
 DOMAIN-SUFFIX,powersunitedvr.com
 DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,threads.net
-DOMAIN-SUFFIX,graph.whatsapp.com
-DOMAIN-SUFFIX,graph.whatsapp.net
 DOMAIN-SUFFIX,wa.me
 DOMAIN-SUFFIX,whatsapp-plus.info
 DOMAIN-SUFFIX,whatsapp-plus.me
