@@ -34,9 +34,7 @@ func main() {
 		if file.IsDir() {
 			continue
 		}
-
-		fileName := file.Name()
-		processSingleCategory(fileName)
+		processSingleCategory(file.Name())
 	}
 }
 
@@ -71,17 +69,11 @@ func processSingleCategory(fileName string) {
 				suffixes[entry.Value] = true
 				count++
 			}
-		} else if entry.Prefix == "DOMAIN" {
-            if !isSubdomain(entry.Value, suffixes) && !suffixes[entry.Value] {
-                fullLine := entry.Prefix + "," + entry.Value
-                if !others[fullLine] {
-                    writer.WriteString(fullLine + "\n")
-                    others[fullLine] = true
-                    count++
-                }
-            }
-        } else {
+		} else {
 			fullLine := entry.Prefix + "," + entry.Value
+			if entry.Prefix == "DOMAIN" && (suffixes[entry.Value] || isSubdomain(entry.Value, suffixes)) {
+				continue
+			}
 			if !others[fullLine] {
 				writer.WriteString(fullLine + "\n")
 				others[fullLine] = true
@@ -111,14 +103,22 @@ func collectEntries(path string, entries *[]Entry, processed map[string]bool) er
 		if line == "" || strings.HasPrefix(line, "#") {
 			continue
 		}
-
 		line = strings.Split(line, "#")[0]
+
 		line = strings.Split(line, "@")[0]
+		line = strings.Split(line, "&")[0]
 		line = strings.TrimSpace(line)
 
+		if line == "" {
+			continue
+		}
+
 		if strings.HasPrefix(line, "include:") {
-			incName := strings.TrimSpace(strings.TrimPrefix(line, "include:"))
-			collectEntries(filepath.Join(inputDir, incName), entries, processed)
+			parts := strings.Fields(strings.TrimPrefix(line, "include:"))
+			if len(parts) > 0 {
+				incName := parts[0]
+				collectEntries(filepath.Join(inputDir, incName), entries, processed)
+			}
 			continue
 		}
 
@@ -129,24 +129,29 @@ func collectEntries(path string, entries *[]Entry, processed map[string]bool) er
 		case strings.HasPrefix(line, "keyword:"):
 			p, v = "DOMAIN-KEYWORD", strings.TrimPrefix(line, "keyword:")
 		case strings.HasPrefix(line, "regexp:"):
+			// Ignore nor now
 			continue
-		// 	p, v = "DOMAIN-WILDCARD", strings.TrimPrefix(line, "regexp:")
-		default:
+		case strings.HasPrefix(line, "domain:"):
 			p, v = "DOMAIN-SUFFIX", strings.TrimPrefix(line, "domain:")
+		default:
+			p, v = "DOMAIN-SUFFIX", line
 		}
-		*entries = append(*entries, Entry{Prefix: p, Value: strings.TrimSpace(v)})
+
+		v = strings.TrimSpace(v)
+		if v != "" {
+			*entries = append(*entries, Entry{Prefix: p, Value: v})
+		}
 	}
 	return scanner.Err()
 }
 
 func isSubdomain(domain string, suffixes map[string]bool) bool {
-    for i := 0; i < len(domain); i++ {
-        if domain[i] == '.' {
-            parent := domain[i+1:]
-            if suffixes[parent] {
-                return true
-            }
-        }
-    }
-    return false
+	parts := strings.Split(domain, ".")
+	for i := 1; i < len(parts); i++ {
+		parent := strings.Join(parts[i:], ".")
+		if suffixes[parent] {
+			return true
+		}
+	}
+	return false
 }
