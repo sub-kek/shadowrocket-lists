@@ -13,20 +13,31 @@ const (
 	outputDir = "./shadowrocket"
 )
 
-type Entry struct {
-	Prefix string
-	Value  string
+type Rule struct {
+	Prefix       string
+	Value        string
+	Attributes   map[string]bool
+	Affiliations []string
+	Inclusions   []Inclusion
 }
+
+type Inclusion struct {
+	Target string
+	Plus   []string // @attr
+	Minus  []string // @-attr
+}
+
+var allFilesData = make(map[string][]Rule)
 
 func main() {
 	if err := os.MkdirAll(outputDir, os.ModePerm); err != nil {
-		fmt.Printf("Error creating directory: %v\n", err)
+		fmt.Printf("Error: %v\n", err)
 		return
 	}
 
 	files, err := os.ReadDir(inputDir)
 	if err != nil {
-		fmt.Printf("Error reading directory: %v\n", err)
+		fmt.Printf("Error reading data: %v\n", err)
 		return
 	}
 
@@ -34,66 +45,19 @@ func main() {
 		if file.IsDir() {
 			continue
 		}
-		processSingleCategory(file.Name())
+		allFilesData[file.Name()] = parseFile(filepath.Join(inputDir, file.Name()))
+	}
+
+	for fileName := range allFilesData {
+		processTarget(fileName)
 	}
 }
 
-func processSingleCategory(fileName string) {
-	fmt.Printf("Processing: %s...\n", fileName)
-
-	var allEntries []Entry
-	processedFiles := make(map[string]bool)
-	err := collectEntries(filepath.Join(inputDir, fileName), &allEntries, processedFiles)
-	if err != nil {
-		fmt.Printf("  [!] Error in %s: %v\n", fileName, err)
-		return
-	}
-
-	outPath := filepath.Join(outputDir, fileName+".list")
-	out, err := os.Create(outPath)
-	if err != nil {
-		fmt.Printf("  [!] Failed to create file %s: %v\n", outPath, err)
-		return
-	}
-	defer out.Close()
-
-	writer := bufio.NewWriter(out)
-	suffixes := make(map[string]bool)
-	others := make(map[string]bool)
-
-	count := 0
-	for _, entry := range allEntries {
-		if entry.Prefix == "DOMAIN-SUFFIX" {
-			if !isSubdomain(entry.Value, suffixes) && !suffixes[entry.Value] {
-				writer.WriteString(fmt.Sprintf("%s,%s\n", entry.Prefix, entry.Value))
-				suffixes[entry.Value] = true
-				count++
-			}
-		} else {
-			fullLine := entry.Prefix + "," + entry.Value
-			if entry.Prefix == "DOMAIN" && (suffixes[entry.Value] || isSubdomain(entry.Value, suffixes)) {
-				continue
-			}
-			if !others[fullLine] {
-				writer.WriteString(fullLine + "\n")
-				others[fullLine] = true
-				count++
-			}
-		}
-	}
-	writer.Flush()
-	fmt.Printf("  [+] Done: %d entries\n", count)
-}
-
-func collectEntries(path string, entries *[]Entry, processed map[string]bool) error {
-	if processed[path] {
-		return nil
-	}
-	processed[path] = true
-
+func parseFile(path string) []Rule {
+	var rules []Rule
 	file, err := os.Open(path)
 	if err != nil {
-		return err
+		return rules
 	}
 	defer file.Close()
 
@@ -105,47 +69,134 @@ func collectEntries(path string, entries *[]Entry, processed map[string]bool) er
 		}
 		line = strings.Split(line, "#")[0]
 
-		line = strings.Split(line, "@")[0]
-		line = strings.Split(line, "&")[0]
-		line = strings.TrimSpace(line)
-
-		if line == "" {
-			continue
-		}
-
-		if strings.HasPrefix(line, "include:") {
-			parts := strings.Fields(strings.TrimPrefix(line, "include:"))
-			if len(parts) > 0 {
-				incName := parts[0]
-				collectEntries(filepath.Join(inputDir, incName), entries, processed)
+		rule := Rule{Attributes: make(map[string]bool)}
+		parts := strings.Fields(line)
+		
+		mainPart := ""
+		for _, p := range parts {
+			if strings.HasPrefix(p, "@") {
+				rule.Attributes[strings.TrimPrefix(p, "@")] = true
+			} else if strings.HasPrefix(p, "&") {
+				rule.Affiliations = append(rule.Affiliations, strings.TrimPrefix(p, "&"))
+			} else if mainPart == "" {
+				mainPart = p
 			}
-			continue
 		}
 
-		var p, v string
-		switch {
-		case strings.HasPrefix(line, "full:"):
-			p, v = "DOMAIN", strings.TrimPrefix(line, "full:")
-		case strings.HasPrefix(line, "keyword:"):
-			p, v = "DOMAIN-KEYWORD", strings.TrimPrefix(line, "keyword:")
-		case strings.HasPrefix(line, "regexp:"):
-			// Ignore nor now
-			continue
-		case strings.HasPrefix(line, "domain:"):
-			p, v = "DOMAIN-SUFFIX", strings.TrimPrefix(line, "domain:")
-		default:
-			p, v = "DOMAIN-SUFFIX", line
+		if strings.HasPrefix(mainPart, "include:") {
+			inc := Inclusion{Target: strings.TrimPrefix(mainPart, "include:")}
+			for _, p := range parts {
+				if strings.HasPrefix(p, "@-") {
+					inc.Minus = append(inc.Minus, strings.TrimPrefix(p, "@-"))
+				} else if strings.HasPrefix(p, "@") {
+					inc.Plus = append(inc.Plus, strings.TrimPrefix(p, "@"))
+				}
+			}
+			rule.Inclusions = append(rule.Inclusions, inc)
+		} else {
+			switch {
+			case strings.HasPrefix(mainPart, "full:"):
+				rule.Prefix, rule.Value = "DOMAIN", strings.TrimPrefix(mainPart, "full:")
+			case strings.HasPrefix(mainPart, "keyword:"):
+				rule.Prefix, rule.Value = "DOMAIN-KEYWORD", strings.TrimPrefix(mainPart, "keyword:")
+			case strings.HasPrefix(mainPart, "regexp:"):
+				continue
+			case strings.HasPrefix(mainPart, "domain:"):
+				rule.Prefix, rule.Value = "DOMAIN-SUFFIX", strings.TrimPrefix(mainPart, "domain:")
+			default:
+				rule.Prefix, rule.Value = "DOMAIN-SUFFIX", mainPart
+			}
 		}
-
-		v = strings.TrimSpace(v)
-		if v != "" {
-			*entries = append(*entries, Entry{Prefix: p, Value: v})
-		}
+		rules = append(rules, rule)
 	}
-	return scanner.Err()
+	return rules
 }
 
-func isSubdomain(domain string, suffixes map[string]bool) bool {
+func processTarget(targetName string) {
+	fmt.Printf("Building target: %s...\n", targetName)
+	
+	resultMap := make(map[string]string) // "value" -> "prefix"
+	visited := make(map[string]bool)
+
+	collect(targetName, []string{}, []string{}, resultMap, visited)
+
+	for _, rules := range allFilesData {
+		for _, r := range rules {
+			for _, aff := range r.Affiliations {
+				if aff == targetName && r.Value != "" {
+					resultMap[r.Value] = r.Prefix
+				}
+			}
+		}
+	}
+
+	if len(resultMap) == 0 {
+		return
+	}
+
+	outPath := filepath.Join(outputDir, targetName+".list")
+	out, _ := os.Create(outPath)
+	defer out.Close()
+	writer := bufio.NewWriter(out)
+
+ suffixes := make(map[string]bool)
+	for val, pref := range resultMap {
+		if pref == "DOMAIN-SUFFIX" {
+			suffixes[val] = true
+		}
+	}
+
+	count := 0
+	for val, pref := range resultMap {
+		if pref == "DOMAIN" && isSubdomainOfAny(val, suffixes) {
+			continue
+		}
+		writer.WriteString(fmt.Sprintf("%s,%s\n", pref, val))
+		count++
+	}
+	writer.Flush()
+	fmt.Printf("  [+] Done: %d entries\n", count)
+}
+
+func collect(target string, plus, minus []string, res map[string]string, visited map[string]bool) {
+	visitKey := fmt.Sprintf("%s|%v|%v", target, plus, minus)
+	if visited[visitKey] {
+		return
+	}
+	visited[visitKey] = true
+
+	rules, ok := allFilesData[target]
+	if !ok {
+		return
+	}
+
+	for _, r := range rules {
+		// 1. Проверка соответствия атрибутам (@)
+		match := true
+		for _, p := range plus {
+			if !r.Attributes[p] {
+				match = false; break
+			}
+		}
+		if !match { continue }
+		for _, m := range minus {
+			if r.Attributes[m] {
+				match = false; break
+			}
+		}
+		if !match { continue }
+
+		if r.Value != "" {
+			res[r.Value] = r.Prefix
+		}
+
+		for _, inc := range r.Inclusions {
+			collect(inc.Target, inc.Plus, inc.Minus, res, visited)
+		}
+	}
+}
+
+func isSubdomainOfAny(domain string, suffixes map[string]bool) bool {
 	parts := strings.Split(domain, ".")
 	for i := 1; i < len(parts); i++ {
 		parent := strings.Join(parts[i:], ".")
