@@ -1,10 +1,10 @@
+DOMAIN-SUFFIX,staticfile.net
 DOMAIN-SUFFIX,staticfile.org
-DOMAIN-SUFFIX,qiniu.com
 DOMAIN-SUFFIX,qiniucdn.com
 DOMAIN-SUFFIX,qiniudns.com
-DOMAIN-SUFFIX,qiniup.com
-DOMAIN-SUFFIX,staticfile.net
-DOMAIN-SUFFIX,qbox.me
-DOMAIN-SUFFIX,qiniudn.com
 DOMAIN-SUFFIX,qnsdk.com
+DOMAIN-SUFFIX,qbox.me
+DOMAIN-SUFFIX,qiniu.com
+DOMAIN-SUFFIX,qiniudn.com
+DOMAIN-SUFFIX,qiniup.com
 DOMAIN-SUFFIX,qnssl.com
