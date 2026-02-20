@@ -1,11 +1,11 @@
-DOMAIN-SUFFIX,chinesemooc.org
-DOMAIN-SUFFIX,icourse163.org
+DOMAIN-SUFFIX,cnmooc.org
 DOMAIN-SUFFIX,icve.com.cn
 DOMAIN-SUFFIX,openlearning.com
 DOMAIN-SUFFIX,pmphmooc.com
-DOMAIN,moocs.unipus.cn
-DOMAIN,opencourse.pku.edu.cn
-DOMAIN-SUFFIX,cnmooc.org
+DOMAIN,study.163.com
+DOMAIN-SUFFIX,icourse163.org
 DOMAIN-SUFFIX,icourses.cn
 DOMAIN-SUFFIX,mooc.cn
-DOMAIN,study.163.com
+DOMAIN,moocs.unipus.cn
+DOMAIN,opencourse.pku.edu.cn
+DOMAIN-SUFFIX,chinesemooc.org
