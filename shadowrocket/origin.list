@@ -1,9 +1,9 @@
+DOMAIN-SUFFIX,dawngate.com
 DOMAIN-SUFFIX,eastore.com
-DOMAIN-SUFFIX,lordofultima.com
 DOMAIN-SUFFIX,origin.tv
 DOMAIN,cloudsync-prod.s3.amazonaws.com
-DOMAIN,rtm.tnt-ea.com
-DOMAIN-SUFFIX,dawngate.com
+DOMAIN,ssl-lvlt.cdn.ea.com
+DOMAIN-SUFFIX,lordofultima.com
 DOMAIN-SUFFIX,origin.com
 DOMAIN,origin-a.akamaihd.net
-DOMAIN,ssl-lvlt.cdn.ea.com
+DOMAIN,rtm.tnt-ea.com

@@ -1,8 +1,3 @@
-DOMAIN-SUFFIX,fanatical.com
-DOMAIN,fandom.zendesk.com
-DOMAIN-SUFFIX,fandom.com
-DOMAIN-SUFFIX,futhead.com
-DOMAIN-SUFFIX,cortexrpg.com
 DOMAIN-SUFFIX,wikia.nocookie.net
 DOMAIN-SUFFIX,cursecdn.com
 DOMAIN-SUFFIX,wikia.com
@@ -10,3 +5,8 @@ DOMAIN-SUFFIX,wikia.org
 DOMAIN-SUFFIX,dndbeyond.com
 DOMAIN-SUFFIX,gamepedia.com
 DOMAIN-SUFFIX,muthead.com
+DOMAIN,fandom.zendesk.com
+DOMAIN-SUFFIX,fandom.com
+DOMAIN-SUFFIX,futhead.com
+DOMAIN-SUFFIX,cortexrpg.com
+DOMAIN-SUFFIX,fanatical.com
