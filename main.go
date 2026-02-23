@@ -115,7 +115,7 @@ func parseFile(path string) []Rule {
 func processTarget(targetName string) {
     fmt.Printf("Building target: %s...\n", targetName)
     
-    resultMap := make(map[string]string) /
+    resultMap := make(map[string]string)
     visited := make(map[string]bool)
 	
     collect(targetName, []string{}, []string{}, resultMap, visited)
