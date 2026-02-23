@@ -113,49 +113,68 @@ func parseFile(path string) []Rule {
 }
 
 func processTarget(targetName string) {
-	fmt.Printf("Building target: %s...\n", targetName)
+    fmt.Printf("Building target: %s...\n", targetName)
+    
+    resultMap := make(map[string]string) /
+    visited := make(map[string]bool)
 	
-	resultMap := make(map[string]string) // "value" -> "prefix"
-	visited := make(map[string]bool)
+    collect(targetName, []string{}, []string{}, resultMap, visited)
 
-	collect(targetName, []string{}, []string{}, resultMap, visited)
+    for _, rules := range allFilesData {
+        for _, r := range rules {
+            for _, aff := range r.Affiliations {
+                if aff == targetName && r.Value != "" {
+                    resultMap[r.Value] = r.Prefix
+                }
+            }
+        }
+    }
 
-	for _, rules := range allFilesData {
-		for _, r := range rules {
-			for _, aff := range r.Affiliations {
-				if aff == targetName && r.Value != "" {
-					resultMap[r.Value] = r.Prefix
-				}
-			}
-		}
-	}
+    if len(resultMap) == 0 {
+        return
+    }
 
-	if len(resultMap) == 0 {
-		return
-	}
+    suffixes := make(map[string]bool)
+    for val, pref := range resultMap {
+        if pref == "DOMAIN-SUFFIX" {
+            suffixes[val] = true
+        }
+    }
+	
+    keys := make([]string, 0, len(resultMap))
+    for val := range resultMap {
+        keys = append(keys, val)
+    }
 
-	outPath := filepath.Join(outputDir, targetName+".list")
-	out, _ := os.Create(outPath)
-	defer out.Close()
-	writer := bufio.NewWriter(out)
+    sort.Strings(keys)
 
- suffixes := make(map[string]bool)
-	for val, pref := range resultMap {
-		if pref == "DOMAIN-SUFFIX" {
-			suffixes[val] = true
-		}
-	}
+    outPath := filepath.Join(outputDir, targetName+".list")
+    out, err := os.Create(outPath)
+    if err != nil {
+        fmt.Printf("  [!] Error creating file: %v\n", err)
+        return
+    }
+    defer out.Close()
+    
+    writer := bufio.NewWriter(out)
+    count := 0
 
-	count := 0
-	for val, pref := range resultMap {
-		if pref == "DOMAIN" && isSubdomainOfAny(val, suffixes) {
-			continue
-		}
-		writer.WriteString(fmt.Sprintf("%s,%s\n", pref, val))
-		count++
-	}
-	writer.Flush()
-	fmt.Printf("  [+] Done: %d entries\n", count)
+    for _, val := range keys {
+        pref := resultMap[val]
+        
+        if pref == "DOMAIN" && isSubdomainOfAny(val, suffixes) {
+            continue
+        }
+        
+        _, err := writer.WriteString(fmt.Sprintf("%s,%s\n", pref, val))
+        if err != nil {
+            break
+        }
+        count++
+    }
+    
+    writer.Flush()
+    fmt.Printf("  [+] Done: %d entries\n", count)
 }
 
 func collect(target string, plus, minus []string, res map[string]string, visited map[string]bool) {
@@ -171,7 +190,6 @@ func collect(target string, plus, minus []string, res map[string]string, visited
 	}
 
 	for _, r := range rules {
-		// 1. Проверка соответствия атрибутам (@)
 		match := true
 		for _, p := range plus {
 			if !r.Attributes[p] {
