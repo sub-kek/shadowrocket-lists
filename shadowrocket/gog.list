@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,gog.com
-DOMAIN-SUFFIX,gog-statics.com
-DOMAIN,gog.qtlglb.com
 DOMAIN,gog-cdn.akamaized.net
+DOMAIN-SUFFIX,gog-statics.com
+DOMAIN-SUFFIX,gog.com
+DOMAIN,gog.qtlglb.com
