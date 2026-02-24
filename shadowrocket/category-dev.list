@@ -360,6 +360,7 @@ DOMAIN-SUFFIX,osdn.net
 DOMAIN-SUFFIX,ospray.net
 DOMAIN-SUFFIX,ospray.org
 DOMAIN,p-events-delivery.akamaized.net
+DOMAIN-SUFFIX,packagecloud.io
 DOMAIN,packages.microsoft.com
 DOMAIN-SUFFIX,packagist.org
 DOMAIN-SUFFIX,packer.io
