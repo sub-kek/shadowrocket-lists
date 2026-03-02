@@ -1,6 +1,5 @@
 DOMAIN-SUFFIX,ats1.e-timing.ne.jp
 DOMAIN-SUFFIX,clock.isc.org
-DOMAIN-SUFFIX,cn.pool.ntp.org
 DOMAIN,ntp-b.nist.gov
 DOMAIN,ntp-c.colorado.edu
 DOMAIN,ntp-d.nist.gov

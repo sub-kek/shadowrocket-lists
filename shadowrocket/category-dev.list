@@ -52,7 +52,6 @@ DOMAIN-SUFFIX,buckbuild.com
 DOMAIN-SUFFIX,calendarserver.org
 DOMAIN-SUFFIX,canonical.com
 DOMAIN-SUFFIX,carekit.org
-DOMAIN-SUFFIX,cdn.jetbrains.com
 DOMAIN-SUFFIX,cdnjs.com
 DOMAIN-SUFFIX,centos.org
 DOMAIN-SUFFIX,chocolatey.org
@@ -63,13 +62,11 @@ DOMAIN-SUFFIX,codeberg.org
 DOMAIN-SUFFIX,codeberg.page
 DOMAIN-SUFFIX,codeforaliving.io
 DOMAIN-SUFFIX,codethemicrobit.com
-DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,compass.is
 DOMAIN-SUFFIX,componentkit.org
 DOMAIN-SUFFIX,compose-spec.io
 DOMAIN-SUFFIX,conda.io
 DOMAIN-SUFFIX,consul.io
-DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
 DOMAIN-SUFFIX,cpan.org
 DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,cups.org
@@ -223,7 +220,6 @@ DOMAIN-SUFFIX,golang.net
 DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,graphengine.io
 DOMAIN-SUFFIX,grazie.ai
-DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,greenend.org.uk
 DOMAIN-SUFFIX,hacklang.org
 DOMAIN-SUFFIX,hashicorp.com
@@ -233,7 +229,6 @@ DOMAIN-SUFFIX,hex.pm
 DOMAIN-SUFFIX,hexdocs.pm
 DOMAIN-SUFFIX,hhvm.com
 DOMAIN-SUFFIX,hyperscan.io
-DOMAIN-SUFFIX,iads.unity3d.com
 DOMAIN-SUFFIX,imageglass.org
 DOMAIN-SUFFIX,insiderdevtour.com
 DOMAIN-SUFFIX,intellij.com
@@ -366,7 +361,6 @@ DOMAIN-SUFFIX,packagist.org
 DOMAIN-SUFFIX,packer.io
 DOMAIN-SUFFIX,parse.com
 DOMAIN-SUFFIX,pcre.org
-DOMAIN-SUFFIX,perl.apache.org
 DOMAIN-SUFFIX,perl.org
 DOMAIN-SUFFIX,phantomjs.org
 DOMAIN-SUFFIX,php.net
@@ -410,8 +404,6 @@ DOMAIN-SUFFIX,redhat.org
 DOMAIN-SUFFIX,redis.io
 DOMAIN-SUFFIX,redislabs.com
 DOMAIN-SUFFIX,regex101.com
-DOMAIN-SUFFIX,registry.gitlab.com
-DOMAIN-SUFFIX,registry.k8s.io
 DOMAIN-SUFFIX,remirepo.net
 DOMAIN-SUFFIX,renderingtoolkit.org
 DOMAIN-SUFFIX,repo.new
@@ -494,7 +486,6 @@ DOMAIN-SUFFIX,ubuntu.net
 DOMAIN-SUFFIX,ubuntuforums.org
 DOMAIN-SUFFIX,unity.com
 DOMAIN-SUFFIX,unity3d.com
-DOMAIN-SUFFIX,unityads.unity3d.com
 DOMAIN-SUFFIX,universalscalablefirmware.org
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,uwpcommunitytoolkit.com

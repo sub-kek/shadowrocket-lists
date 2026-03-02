@@ -15,7 +15,6 @@ DOMAIN-SUFFIX,amiibo.com
 DOMAIN-SUFFIX,anthemgame.com
 DOMAIN-SUFFIX,anthemthegame.com
 DOMAIN-SUFFIX,apexlegends.com
-DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
 DOMAIN-SUFFIX,arcraiders.com
 DOMAIN-SUFFIX,arma3.com
 DOMAIN-SUFFIX,armaplatform.com
@@ -56,7 +55,6 @@ DOMAIN,blizzcon-a.akamaihd.net
 DOMAIN-SUFFIX,blox.com
 DOMAIN-SUFFIX,bluearchive-cn.com
 DOMAIN-SUFFIX,bluearchive.jp
-DOMAIN-SUFFIX,bluearchive.nexon.com
 DOMAIN-SUFFIX,blz-contentstack.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,blzddistkr1-a.akamaihd.net
@@ -276,7 +274,6 @@ DOMAIN-SUFFIX,leaguoflegends.com
 DOMAIN-SUFFIX,learnwithleague.com
 DOMAIN-SUFFIX,legendofzelda.cn
 DOMAIN-SUFFIX,legendofzelda.com.cn
-DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,lol-europe.com
 DOMAIN-SUFFIX,lolclub.org
 DOMAIN-SUFFIX,lolespor.com
@@ -407,7 +404,6 @@ DOMAIN,notify.ppy.sh
 DOMAIN-SUFFIX,noxygames.com
 DOMAIN-SUFFIX,offworldindustries.com
 DOMAIN-SUFFIX,offworldindustries.net
-DOMAIN-SUFFIX,omotenashi.cygames.jp
 DOMAIN-SUFFIX,op.gg
 DOMAIN,opgg-static.akamaized.net
 DOMAIN,origin-a.akamaihd.net

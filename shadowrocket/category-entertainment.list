@@ -35,7 +35,6 @@ DOMAIN-SUFFIX,ac-pocketcamp.com
 DOMAIN-SUFFIX,acesofthunder.net
 DOMAIN-SUFFIX,activematter.game
 DOMAIN-SUFFIX,ads-pixiv.net
-DOMAIN-SUFFIX,ads.youtube.com
 DOMAIN-SUFFIX,adventuresbydisney.com
 DOMAIN-SUFFIX,adx.promo
 DOMAIN-SUFFIX,age.tv
@@ -63,7 +62,6 @@ DOMAIN-SUFFIX,ameblo.jp
 DOMAIN-SUFFIX,amediateka.ru
 DOMAIN-SUFFIX,amiibo.com
 DOMAIN-SUFFIX,amp-api.podcast.apple.com
-DOMAIN-SUFFIX,analytics.tiktok.com
 DOMAIN-SUFFIX,angelbeats.jp
 DOMAIN-SUFFIX,anigema.jp
 DOMAIN-SUFFIX,animedao-tv.com
@@ -71,7 +69,6 @@ DOMAIN-SUFFIX,anthemgame.com
 DOMAIN-SUFFIX,anthemthegame.com
 DOMAIN-SUFFIX,ao3.org
 DOMAIN-SUFFIX,apexlegends.com
-DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
 DOMAIN,apl-hamivideo.cdn.hinet.net
 DOMAIN-SUFFIX,appget.com
 DOMAIN,apple-tv-plus-press.apple.com
@@ -141,7 +138,6 @@ DOMAIN-SUFFIX,blox.com
 DOMAIN-SUFFIX,blubrry.com
 DOMAIN-SUFFIX,bluearchive-cn.com
 DOMAIN-SUFFIX,bluearchive.jp
-DOMAIN-SUFFIX,bluearchive.nexon.com
 DOMAIN-SUFFIX,blz-contentstack.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,blzddistkr1-a.akamaihd.net
@@ -425,7 +421,6 @@ DOMAIN-SUFFIX,dungeonkeeper.com
 DOMAIN-SUFFIX,dungeonkeeper.com.cn
 DOMAIN,dykkng5hnh52u.cloudfront.net
 DOMAIN-SUFFIX,dzcdn.net
-DOMAIN-SUFFIX,e5a6ae085b6c43020dea230eb0c0ecc33a188227507da97b8ecc05eb8beace6.us-east-1.prod.service.minerva.devices.a2z.com
 DOMAIN-SUFFIX,ea-anz-press.com
 DOMAIN-SUFFIX,ea.com
 DOMAIN,ea.tt.omtrdc.net
@@ -780,7 +775,6 @@ DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,litvfreepc.akamaized.net
 DOMAIN-SUFFIX,live-video.net
 DOMAIN-SUFFIX,livestream.com
-DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,lol-europe.com
 DOMAIN-SUFFIX,lolclub.org
 DOMAIN-SUFFIX,lolespor.com
@@ -1033,7 +1027,6 @@ DOMAIN-SUFFIX,olevod.io
 DOMAIN-SUFFIX,olevod.tv
 DOMAIN-SUFFIX,olevodtv.com
 DOMAIN-SUFFIX,omobi.cc
-DOMAIN-SUFFIX,omotenashi.cygames.jp
 DOMAIN-SUFFIX,onlinegamer.jp
 DOMAIN-SUFFIX,op.gg
 DOMAIN-SUFFIX,openbook.org.tw
@@ -1309,10 +1302,6 @@ DOMAIN-SUFFIX,st.dl.pinyuncloud.com
 DOMAIN-SUFFIX,star-brasil.com
 DOMAIN-SUFFIX,star-conflict.com
 DOMAIN-SUFFIX,star-latam.com
-DOMAIN-SUFFIX,star.api.edge.bamgrid.com
-DOMAIN-SUFFIX,star.connections.edge.bamgrid.com
-DOMAIN-SUFFIX,star.content.edge.bamgrid.com
-DOMAIN-SUFFIX,star.playback.edge.bamgrid.com
 DOMAIN-SUFFIX,starcraft.com
 DOMAIN-SUFFIX,starcraft2.com
 DOMAIN-SUFFIX,starfox.com

@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
 DOMAIN-SUFFIX,acheterfollowersinstagram.com
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,advancediddetection.com
-DOMAIN-SUFFIX,analytics.facebook.com
 DOMAIN-SUFFIX,askfacebook.net
 DOMAIN-SUFFIX,askfacebook.org
 DOMAIN-SUFFIX,atdmt2.com
@@ -364,8 +363,6 @@ DOMAIN-SUFFIX,futureofbusinesssurvey.org
 DOMAIN-SUFFIX,gacebook.com
 DOMAIN-SUFFIX,gameroom.com
 DOMAIN-SUFFIX,gfacecbook.com
-DOMAIN-SUFFIX,graph-fallback.instagram.com
-DOMAIN-SUFFIX,graph.instagram.com
 DOMAIN-SUFFIX,groups.com
 DOMAIN-SUFFIX,gyutte.site
 DOMAIN-SUFFIX,hackerfacebook.com
@@ -436,6 +433,7 @@ DOMAIN-SUFFIX,intagram.com
 DOMAIN-SUFFIX,intagrm.com
 DOMAIN-SUFFIX,internet.org
 DOMAIN-SUFFIX,intgram.com
+DOMAIN-SUFFIX,joinmastodon.org
 DOMAIN-SUFFIX,kingstagram.com
 DOMAIN-SUFFIX,klik.me
 DOMAIN-SUFFIX,l-0005.dc-msedge.net
@@ -456,6 +454,8 @@ DOMAIN-SUFFIX,login-account.net
 DOMAIN-SUFFIX,mail.ru
 DOMAIN-SUFFIX,maniakey.homes
 DOMAIN-SUFFIX,markzuckerberg.com
+DOMAIN-SUFFIX,mastodon.online
+DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,mfmf.club
 DOMAIN-SUFFIX,mi.kochudaho.me
 DOMAIN-SUFFIX,mi.mashiro.site
@@ -501,8 +501,8 @@ DOMAIN-SUFFIX,online-deals.net
 DOMAIN-SUFFIX,online-instagram.com
 DOMAIN-SUFFIX,onlineinstagram.com
 DOMAIN-SUFFIX,opencreate.org
+DOMAIN-SUFFIX,pawoo.net
 DOMAIN-SUFFIX,periscope.tv
-DOMAIN-SUFFIX,pixel.facebook.com
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,reachtheworldonfacebook.com
 DOMAIN-SUFFIX,redkix.com

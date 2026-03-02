@@ -2,7 +2,6 @@ DOMAIN-SUFFIX,accv.es
 DOMAIN-SUFFIX,actalis.com
 DOMAIN-SUFFIX,actalis.it
 DOMAIN-SUFFIX,adobe-crl.verisign.com
-DOMAIN-SUFFIX,ads.yahoo.com
 DOMAIN-SUFFIX,affirmtrust.com
 DOMAIN-SUFFIX,alphassl.com
 DOMAIN-SUFFIX,amazontrust.com
@@ -85,7 +84,6 @@ DOMAIN-SUFFIX,flickr.net
 DOMAIN-SUFFIX,fnmt.es
 DOMAIN-SUFFIX,freessl.com
 DOMAIN-SUFFIX,gandi.net
-DOMAIN-SUFFIX,gemini.yahoo.com
 DOMAIN-SUFFIX,geotrust.com
 DOMAIN-SUFFIX,globalsign-media.com
 DOMAIN-SUFFIX,globalsign.be
@@ -433,6 +431,5 @@ DOMAIN-SUFFIX,yho.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yimg.jp
 DOMAIN-SUFFIX,ymail.com
-DOMAIN-SUFFIX,ysm.yahoo.com
 DOMAIN-SUFFIX,yusercontent.com
 DOMAIN-SUFFIX,zert.ch

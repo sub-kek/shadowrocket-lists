@@ -10,7 +10,6 @@ DOMAIN-SUFFIX,activity03.com
 DOMAIN-SUFFIX,activity04.com
 DOMAIN-SUFFIX,activity05.com
 DOMAIN-SUFFIX,activitybyte.com
-DOMAIN-SUFFIX,ad.toutiao.com
 DOMAIN-SUFFIX,aigc-cloud.com
 DOMAIN-SUFFIX,aihst8.com
 DOMAIN-SUFFIX,ali-api-test.net
@@ -20,7 +19,6 @@ DOMAIN-SUFFIX,ali-restore.net
 DOMAIN-SUFFIX,amemv.cn
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,amemv.net
-DOMAIN-SUFFIX,analytics.tiktok.com
 DOMAIN-SUFFIX,anycross.com
 DOMAIN-SUFFIX,arco.design
 DOMAIN-SUFFIX,awemeughun.com
@@ -44,7 +42,6 @@ DOMAIN-SUFFIX,bdns-restore.net
 DOMAIN-SUFFIX,bdns-test.com
 DOMAIN-SUFFIX,bdns-test.net
 DOMAIN-SUFFIX,bdppe.net
-DOMAIN-SUFFIX,bds.snssdk.com
 DOMAIN-SUFFIX,bdsagslb.com
 DOMAIN-SUFFIX,bdsagslbtest.com
 DOMAIN-SUFFIX,bdxiguaimg.com
@@ -231,7 +228,6 @@ DOMAIN-SUFFIX,dycloudbk.com
 DOMAIN-SUFFIX,ecombdapi.com
 DOMAIN-SUFFIX,ecombdstatic.com
 DOMAIN-SUFFIX,emr-volces.com
-DOMAIN-SUFFIX,extlog.snssdk.com
 DOMAIN-SUFFIX,faceu.com
 DOMAIN-SUFFIX,falconsending.com
 DOMAIN-SUFFIX,fanqienovel.com
@@ -284,7 +280,6 @@ DOMAIN-SUFFIX,fqnovelop.com
 DOMAIN-SUFFIX,fqnovelpic.com
 DOMAIN-SUFFIX,fqnovelstatic.com
 DOMAIN-SUFFIX,fqnovelvod.com
-DOMAIN-SUFFIX,frontier-lark-lb-v3.lf.bytelb.net
 DOMAIN-SUFFIX,getfeishu.cn
 DOMAIN-SUFFIX,getfeishu.com
 DOMAIN-SUFFIX,getsays.cn
@@ -315,7 +310,6 @@ DOMAIN-SUFFIX,huoshanzhibo.cn
 DOMAIN-SUFFIX,huoshanzhibo.com
 DOMAIN-SUFFIX,huoshanzhibo.net
 DOMAIN-SUFFIX,hypercachenet.com
-DOMAIN-SUFFIX,i.snssdk.com
 DOMAIN-SUFFIX,ibdxiguaimg.com
 DOMAIN-SUFFIX,ibdxigualive.com
 DOMAIN-SUFFIX,ibdxiguastatic.com
@@ -373,7 +367,6 @@ DOMAIN-SUFFIX,larkfn.com
 DOMAIN-SUFFIX,larkmeetings.cn
 DOMAIN-SUFFIX,larkmeetings.com
 DOMAIN-SUFFIX,larkoffice.com
-DOMAIN-SUFFIX,larkoffice.com.bytedns1.com
 DOMAIN-SUFFIX,larkofficeapp-boe.com
 DOMAIN-SUFFIX,larkofficeapp-pre.com
 DOMAIN-SUFFIX,larkofficeapp.com
@@ -395,7 +388,6 @@ DOMAIN-SUFFIX,larksuiteimg.com
 DOMAIN-SUFFIX,larkvc.com
 DOMAIN-SUFFIX,livecdnstatic.com
 DOMAIN-SUFFIX,local-ip.online
-DOMAIN-SUFFIX,log.zijieapi.com
 DOMAIN-SUFFIX,luckysf.net
 DOMAIN-SUFFIX,maoxiangai.com
 DOMAIN-SUFFIX,marscode.cn
@@ -405,7 +397,6 @@ DOMAIN-SUFFIX,mcbaas.work
 DOMAIN-SUFFIX,mcdemo.show
 DOMAIN-SUFFIX,mchost.guru
 DOMAIN-SUFFIX,mcprev.cn
-DOMAIN-SUFFIX,mcs.snssdk.com
 DOMAIN-SUFFIX,meegobeta.com
 DOMAIN-SUFFIX,modernjs.cn
 DOMAIN-SUFFIX,multilingual-volc.com
@@ -438,13 +429,9 @@ DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,pacmantwo.com
 DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com
 DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
-DOMAIN-SUFFIX,pangolin-hl.snssdk.com
-DOMAIN-SUFFIX,pangolin-lf.snssdk.com
-DOMAIN-SUFFIX,pangolin-lq.snssdk.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
-DOMAIN-SUFFIX,pangolin.snssdk.com
 DOMAIN-SUFFIX,panplayable-toutiao-b.com
 DOMAIN-SUFFIX,panplayable-toutiao.com
 DOMAIN-SUFFIX,pglstatp-sdk-toutiao.com
@@ -487,7 +474,6 @@ DOMAIN-SUFFIX,searchstatic.com
 DOMAIN-SUFFIX,searchtoutiaolive.com
 DOMAIN-SUFFIX,securityfeishu.cn
 DOMAIN-SUFFIX,securityfs.cn
-DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
 DOMAIN-SUFFIX,shidianguji.com
 DOMAIN-SUFFIX,shoppingads.cn
 DOMAIN-SUFFIX,sinf-test.net

@@ -132,7 +132,6 @@ DOMAIN-SUFFIX,bingsandbox.com
 DOMAIN-SUFFIX,bingvisualsearch.com
 DOMAIN-SUFFIX,bingworld.com
 DOMAIN-SUFFIX,blazor.net
-DOMAIN-SUFFIX,blob.core.windows.net
 DOMAIN-SUFFIX,blueaggrestore.com
 DOMAIN-SUFFIX,bluecloudprod.com
 DOMAIN-SUFFIX,bluehatil.com
@@ -141,8 +140,6 @@ DOMAIN-SUFFIX,boswp.com
 DOMAIN-SUFFIX,botframework.com
 DOMAIN-SUFFIX,brazilpartneruniversity.com
 DOMAIN-SUFFIX,breakdown.me
-DOMAIN-SUFFIX,browser.events.data.msn.cn
-DOMAIN-SUFFIX,browser.events.data.msn.com
 DOMAIN-SUFFIX,c-msedge.net
 DOMAIN-SUFFIX,callersbane.com
 DOMAIN-SUFFIX,cegid-cloud.cn
@@ -156,13 +153,7 @@ DOMAIN-SUFFIX,chinacloudsites.cn
 DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,cloudappsecurity.com
-DOMAIN-SUFFIX,cn.bing.com
-DOMAIN-SUFFIX,cn.bing.net
-DOMAIN-SUFFIX,cn.mm.bing.net
 DOMAIN-SUFFIX,codethemicrobit.com
-DOMAIN-SUFFIX,collector.github.com
-DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
-DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,cortanaanalytics.com
 DOMAIN-SUFFIX,cortanaskills.com
 DOMAIN-SUFFIX,cosmosdb.info
@@ -170,18 +161,14 @@ DOMAIN-SUFFIX,cosmosdb.net
 DOMAIN-SUFFIX,crmdynint-gcc.com
 DOMAIN-SUFFIX,crmdynint.com
 DOMAIN-SUFFIX,crossborderexpansion.com
-DOMAIN-SUFFIX,dcg.microsoft.com
 DOMAIN,default.exp-tas.com
 DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,devopsassessment.net
 DOMAIN-SUFFIX,devopsms.com
 DOMAIN-SUFFIX,dictate.ms
-DOMAIN-SUFFIX,ditu.live.com
-DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,docs.com
 DOMAIN-SUFFIX,doom.com
 DOMAIN-SUFFIX,dot.net
-DOMAIN-SUFFIX,download.windowsupdate.com
 DOMAIN-SUFFIX,dynamics.cn
 DOMAIN-SUFFIX,dynamics.com
 DOMAIN-SUFFIX,efproject.net
@@ -485,7 +472,6 @@ DOMAIN-SUFFIX,onedrive.co
 DOMAIN-SUFFIX,onedrive.co.uk
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,onedrive.eu
-DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,onedrive.net
 DOMAIN-SUFFIX,onedrive.org
 DOMAIN-SUFFIX,onenote.com
@@ -517,7 +503,6 @@ DOMAIN-SUFFIX,projectmurphy.net
 DOMAIN-SUFFIX,projectsangam.com
 DOMAIN-SUFFIX,pwabuilder.com
 DOMAIN-SUFFIX,pxt.io
-DOMAIN-SUFFIX,r.bing.com
 DOMAIN-SUFFIX,reactorms.com.cn
 DOMAIN-SUFFIX,renovacionoffice.com
 DOMAIN-SUFFIX,renovacionxboxlive.com
@@ -552,7 +537,6 @@ DOMAIN-SUFFIX,start.com
 DOMAIN,statics-marketingsites-eas-ms-com.akamaized.net
 DOMAIN,statics-marketingsites-eus-ms-com.akamaized.net
 DOMAIN,statics-marketingsites-wcus-ms-com.akamaized.net
-DOMAIN-SUFFIX,storage.live.com
 DOMAIN-SUFFIX,successwithteams.com
 DOMAIN-SUFFIX,surface.com
 DOMAIN-SUFFIX,svc.ms
@@ -564,7 +548,6 @@ DOMAIN-SUFFIX,tailwindtraders.com
 DOMAIN-SUFFIX,techhub.ms
 DOMAIN-SUFFIX,tellmewhygame.com
 DOMAIN-SUFFIX,tfsallin.net
-DOMAIN-SUFFIX,th.bing.com
 DOMAIN-SUFFIX,thegithubshop.com
 DOMAIN-SUFFIX,timelinestoryteller.com
 DOMAIN-SUFFIX,trafficmanager.cn

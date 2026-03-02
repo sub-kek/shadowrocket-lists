@@ -163,7 +163,7 @@ func processTarget(targetName string) {
     for _, val := range keys {
         pref := resultMap[val]
         
-        if pref == "DOMAIN" && isSubdomainOfAny(val, suffixes) {
+        if isSubdomainOfAny(val, suffixes) {
             continue
         }
         
