@@ -1,7 +1,5 @@
 DOMAIN-SUFFIX,bugzilla.org
-DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,developer.allizom.org
-DOMAIN-SUFFIX,docs.rs
 DOMAIN-SUFFIX,extensionworkshop.com
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefoxusercontent.com
@@ -17,7 +15,5 @@ DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.community
 DOMAIN-SUFFIX,mozilla.net
 DOMAIN-SUFFIX,mozilla.org
-DOMAIN-SUFFIX,rust-lang.org
-DOMAIN-SUFFIX,rustup.rs
 DOMAIN-SUFFIX,seamonkey-project.org
 DOMAIN-SUFFIX,thunderbird.net

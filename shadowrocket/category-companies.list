@@ -2025,7 +2025,6 @@ DOMAIN-SUFFIX,cozydrdrebeats.com
 DOMAIN-SUFFIX,cpedge.com
 DOMAIN-SUFFIX,cqcorea.com
 DOMAIN-SUFFIX,crankplayer.com
-DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,createspace.com
 DOMAIN-SUFFIX,createwhatsnext.com
 DOMAIN-SUFFIX,creativecloud.com
@@ -2385,7 +2384,6 @@ DOMAIN-SUFFIX,doceapower.com
 DOMAIN-SUFFIX,dockerizer.com
 DOMAIN-SUFFIX,docs.com
 DOMAIN-SUFFIX,docs.new
-DOMAIN-SUFFIX,docs.rs
 DOMAIN-SUFFIX,documentforce.com
 DOMAIN-SUFFIX,dodv.com
 DOMAIN-SUFFIX,dollarfotoclub.com
@@ -5563,9 +5561,7 @@ DOMAIN-SUFFIX,rostaxi.org
 DOMAIN-SUFFIX,route53.cn
 DOMAIN-SUFFIX,routerboard.com
 DOMAIN-SUFFIX,run.app
-DOMAIN-SUFFIX,rust-lang.org
 DOMAIN-SUFFIX,rustdesk.com
-DOMAIN-SUFFIX,rustup.rs
 DOMAIN-SUFFIX,rzr.to
 DOMAIN-SUFFIX,s-bluemix.net
 DOMAIN-SUFFIX,s-cashonmobile.com
@@ -6747,6 +6743,9 @@ DOMAIN-SUFFIX,yimg.jp
 DOMAIN-SUFFIX,ymail.com
 DOMAIN-SUFFIX,yogalayout.com
 DOMAIN-SUFFIX,yopornshop.com
+DOMAIN,youla-web-static.mrgcdn.ru
+DOMAIN-SUFFIX,youla.io
+DOMAIN-SUFFIX,youla.ru
 DOMAIN-SUFFIX,youporn.com
 DOMAIN-SUFFIX,youporngay.com
 DOMAIN-SUFFIX,youpornpremium.com
