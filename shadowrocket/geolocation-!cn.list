@@ -1700,6 +1700,7 @@ DOMAIN,app-analytics-services.com
 DOMAIN-SUFFIX,app-dynamics.com
 DOMAIN,app-measurement-cn.com
 DOMAIN,app-measurement.com
+DOMAIN-SUFFIX,app-pay.jp
 DOMAIN-SUFFIX,app-store.wang
 DOMAIN-SUFFIX,app0le.com
 DOMAIN-SUFFIX,app756.com
@@ -17217,6 +17218,7 @@ DOMAIN-SUFFIX,samsungeshop.com.cn
 DOMAIN-SUFFIX,samsunggalaxyfriends.com
 DOMAIN-SUFFIX,samsunghealth.com
 DOMAIN-SUFFIX,samsungiotcloud.com
+DOMAIN-SUFFIX,samsungiots.com
 DOMAIN-SUFFIX,samsungknox.com
 DOMAIN-SUFFIX,samsungosp.com
 DOMAIN-SUFFIX,samsungqbe.com
@@ -17981,6 +17983,7 @@ DOMAIN-SUFFIX,smartonerobotics.com
 DOMAIN-SUFFIX,smartonesolutions.com.hk
 DOMAIN-SUFFIX,smartonesolutions.hk
 DOMAIN-SUFFIX,smartstream.ne.jp
+DOMAIN-SUFFIX,smartthings.com
 DOMAIN-SUFFIX,smashed.xxx
 DOMAIN-SUFFIX,smbc.co.jp
 DOMAIN-SUFFIX,smbctb.co.jp
