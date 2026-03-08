@@ -75,6 +75,7 @@ DOMAIN-SUFFIX,bunny.net
 DOMAIN-SUFFIX,bunnycdn.com
 DOMAIN-SUFFIX,cdn77.com
 DOMAIN-SUFFIX,cdn77.org
+DOMAIN-SUFFIX,cdnjs.com
 DOMAIN-SUFFIX,cf-china.info
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cf-ns.com
@@ -137,6 +138,7 @@ DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,edgekey88.net
 DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,encryptedsni.com
+DOMAIN-SUFFIX,esm.run
 DOMAIN-SUFFIX,every1dns.net
 DOMAIN-SUFFIX,fastly-edge.com
 DOMAIN-SUFFIX,fastly-terrarium.com
@@ -156,6 +158,8 @@ DOMAIN-SUFFIX,imgix.net
 DOMAIN-SUFFIX,isbgpsafeyet.com
 DOMAIN-SUFFIX,janrain.biz
 DOMAIN-SUFFIX,janrainservices.com
+DOMAIN-SUFFIX,jsdelivr.com
+DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,limelight.com
 DOMAIN-SUFFIX,lldns.net
 DOMAIN-SUFFIX,llnw-trials.com
