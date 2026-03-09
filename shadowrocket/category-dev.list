@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,consul.io
 DOMAIN-SUFFIX,cpan.org
 DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,cups.org
+DOMAIN-SUFFIX,cve.org
 DOMAIN-SUFFIX,cygwin.com
 DOMAIN-SUFFIX,cython.org
 DOMAIN,d29vzk4ow07wi7.cloudfront.net
