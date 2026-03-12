@@ -20,10 +20,12 @@ DOMAIN-SUFFIX,chutes.ai
 DOMAIN-SUFFIX,cici.com
 DOMAIN-SUFFIX,ciciai.com
 DOMAIN-SUFFIX,ciciaicdn.com
+DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudemcpclient.com
 DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,clawhub.ai
 DOMAIN-SUFFIX,clipdrop.co
 DOMAIN,cloudaicompanion.googleapis.com
 DOMAIN,cloudcode-pa.googleapis.com
@@ -64,6 +66,7 @@ DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grok.x.com
 DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,h2o.ai
 DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,hf.space
 DOMAIN-SUFFIX,host.livekit.cloud
@@ -99,6 +102,7 @@ DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicom.imgix.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN-SUFFIX,openart.ai
+DOMAIN-SUFFIX,openclaw.ai
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,oystermercury.top
 DOMAIN-SUFFIX,perplexity.ai
