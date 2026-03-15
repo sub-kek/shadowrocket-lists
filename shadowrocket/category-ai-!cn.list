@@ -117,6 +117,7 @@ DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,spicywriter.com
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com

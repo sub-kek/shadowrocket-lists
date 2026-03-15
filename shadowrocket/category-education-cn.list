@@ -82,7 +82,6 @@ DOMAIN-SUFFIX,markji.com
 DOMAIN-SUFFIX,modex.com.cn
 DOMAIN-SUFFIX,mojidict.com
 DOMAIN-SUFFIX,mooc.cn
-DOMAIN,moocs.unipus.cn
 DOMAIN-SUFFIX,nattest-china.com
 DOMAIN-SUFFIX,ncss.cn
 DOMAIN-SUFFIX,ncss.org.cn
@@ -107,6 +106,7 @@ DOMAIN-SUFFIX,speiyou.com
 DOMAIN,study.163.com
 DOMAIN-SUFFIX,sydw8.com
 DOMAIN-SUFFIX,tongxuepie.com
+DOMAIN-SUFFIX,unipus.cn
 DOMAIN-SUFFIX,weilaiyunxiao.com
 DOMAIN-SUFFIX,winyoungreading.com
 DOMAIN-SUFFIX,x-cloud.cc
