@@ -6,9 +6,12 @@ DOMAIN,connectivitycheck.platform.hicloud.com
 DOMAIN,connectivitycheck.platform.hihonorcloud.com
 DOMAIN-SUFFIX,cp.cloudflare.com
 DOMAIN-SUFFIX,detectportal.firefox.com
+DOMAIN-SUFFIX,ipv6check-http.steamserver.net
+DOMAIN-SUFFIX,ipv6check-udp.steamserver.net
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,network-test.debian.org
 DOMAIN-SUFFIX,networkcheck.kde.org
 DOMAIN,ping.archlinux.org
 DOMAIN,redirect.archlinux.org
+DOMAIN-SUFFIX,test.steampowered.com
