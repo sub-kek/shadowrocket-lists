@@ -1466,6 +1466,7 @@ DOMAIN-SUFFIX,begin-trade.com
 DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,behindthescreenz.com
 DOMAIN-SUFFIX,bellsouth.net
+DOMAIN-SUFFIX,berizaryad.ru
 DOMAIN-SUFFIX,berkanawireless.com
 DOMAIN-SUFFIX,best4bim.com
 DOMAIN-SUFFIX,bestbeats4u.com
@@ -1946,6 +1947,7 @@ DOMAIN,cl3-cdn.origin-apple.com.akadns.net
 DOMAIN,cl4-cdn.origin-apple.com.akadns.net
 DOMAIN,cl5-cdn.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,clarity.ms
+DOMAIN-SUFFIX,clck.ru
 DOMAIN-SUFFIX,clco.cc
 DOMAIN-SUFFIX,clearlinux.org
 DOMAIN-SUFFIX,click-sec.com
@@ -1980,6 +1982,7 @@ DOMAIN-SUFFIX,cloudvolumes.com
 DOMAIN-SUFFIX,cloupia.com
 DOMAIN-SUFFIX,cloupia.net
 DOMAIN-SUFFIX,clova.ai
+DOMAIN-SUFFIX,clstorage.net
 DOMAIN-SUFFIX,clusterconnection.com
 DOMAIN-SUFFIX,cmhalq.com
 DOMAIN-SUFFIX,cmpaas.com
@@ -2542,6 +2545,7 @@ DOMAIN-SUFFIX,education-cadcam.com
 DOMAIN-SUFFIX,efproject.net
 DOMAIN-SUFFIX,einstein.com
 DOMAIN-SUFFIX,ekiten.jp
+DOMAIN-SUFFIX,elama.ru
 DOMAIN-SUFFIX,elasticbeanstalk.com
 DOMAIN-SUFFIX,elderscrolls.com
 DOMAIN-SUFFIX,emac.co.in
@@ -4484,7 +4488,6 @@ DOMAIN-SUFFIX,kindleoasis.us
 DOMAIN-SUFFIX,kindleoasisnews.com
 DOMAIN-SUFFIX,kindleproject.com
 DOMAIN-SUFFIX,kingstagram.com
-DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
 DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kireipass.jp
 DOMAIN-SUFFIX,klik.me
@@ -4757,6 +4760,7 @@ DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,metabora.io
 DOMAIN-SUFFIX,metacloud.com
 DOMAIN-SUFFIX,metamind.io
+DOMAIN-SUFFIX,meteum.ai
 DOMAIN-SUFFIX,mfg-inspector.com
 DOMAIN-SUFFIX,mgmt-azure-api.cn
 DOMAIN-SUFFIX,michill.jp
@@ -5655,6 +5659,7 @@ DOMAIN-SUFFIX,renovacionoffice.com
 DOMAIN-SUFFIX,renovacionxboxlive.com
 DOMAIN-SUFFIX,renshu.com
 DOMAIN-SUFFIX,repo.new
+DOMAIN,report.ap.yandex-net.ru
 DOMAIN-SUFFIX,repsneakermall.com
 DOMAIN-SUFFIX,repswing.com
 DOMAIN-SUFFIX,researchandcare.org
@@ -5791,6 +5796,7 @@ DOMAIN-SUFFIX,sharepoint.cn
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,shazam.com
+DOMAIN-SUFFIX,shedevrum.ai
 DOMAIN-SUFFIX,sheets.new
 DOMAIN-SUFFIX,shisho.dev
 DOMAIN-SUFFIX,shoers.com
@@ -5991,6 +5997,7 @@ DOMAIN-SUFFIX,sonyprotechnosupport.co.jp
 DOMAIN-SUFFIX,sonystoragemedia.co.jp
 DOMAIN-SUFFIX,sonytc.co.jp
 DOMAIN-SUFFIX,soso7778.com
+DOMAIN-SUFFIX,sourcecraft.dev
 DOMAIN-SUFFIX,sovec.net
 DOMAIN-SUFFIX,spacemail.com
 DOMAIN-SUFFIX,spaceship.com
@@ -6020,6 +6027,7 @@ DOMAIN-SUFFIX,staffhub.ms
 DOMAIN-SUFFIX,starship-ent.com
 DOMAIN-SUFFIX,start.com
 DOMAIN-SUFFIX,static-cisco.com
+DOMAIN-SUFFIX,static-storage.net
 DOMAIN-SUFFIX,static-verizon.com
 DOMAIN-SUFFIX,staticflickr.com
 DOMAIN,statics-marketingsites-eas-ms-com.akamaized.net
@@ -6673,6 +6681,7 @@ DOMAIN-SUFFIX,xscale.com
 DOMAIN-SUFFIX,xtracloud.cn
 DOMAIN-SUFFIX,xtracloud.net
 DOMAIN-SUFFIX,xuite.net
+DOMAIN-SUFFIX,ya.cc
 DOMAIN-SUFFIX,ya.ru
 DOMAIN-SUFFIX,yads.tech
 DOMAIN-SUFFIX,yahoo
@@ -6839,10 +6848,10 @@ DOMAIN-SUFFIX,yamaxun.com
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,yandex-bank.net
-DOMAIN-SUFFIX,yandex-images.clstorage.net
-DOMAIN,yandex-pogoda.static-storage.net
+DOMAIN-SUFFIX,yandex-metrica.ru
 DOMAIN-SUFFIX,yandex-team.ru
 DOMAIN-SUFFIX,yandex.aero
+DOMAIN-SUFFIX,yandex.asia
 DOMAIN-SUFFIX,yandex.az
 DOMAIN-SUFFIX,yandex.by
 DOMAIN-SUFFIX,yandex.cloud
@@ -6864,6 +6873,7 @@ DOMAIN-SUFFIX,yandex.kz
 DOMAIN-SUFFIX,yandex.lt
 DOMAIN-SUFFIX,yandex.lv
 DOMAIN-SUFFIX,yandex.md
+DOMAIN-SUFFIX,yandex.mobi
 DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,yandex.org
 DOMAIN-SUFFIX,yandex.pl
@@ -6878,12 +6888,14 @@ DOMAIN-SUFFIX,yandex.uz
 DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,yandexcloud.net
 DOMAIN-SUFFIX,yandexcom.net
+DOMAIN-SUFFIX,yandexlyceum.ru
 DOMAIN-SUFFIX,yandexmetrica.com
 DOMAIN-SUFFIX,yandexwebcache.net
 DOMAIN-SUFFIX,yandexwebcache.org
 DOMAIN-SUFFIX,yastat.net
 DOMAIN-SUFFIX,yastatic-net.ru
 DOMAIN-SUFFIX,yastatic.net
+DOMAIN-SUFFIX,yccdn.ru
 DOMAIN-SUFFIX,yho.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yimg.jp
