@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,ntp.ripe.net
 DOMAIN-SUFFIX,ntp.se
 DOMAIN-SUFFIX,ntp.t.ring.gr.jp
 DOMAIN,ntp.tencent.com
+DOMAIN,ntp.time.nl
 DOMAIN-SUFFIX,ntp.tohoku.ac.jp
 DOMAIN-SUFFIX,ntp.tut.ac.jp
 DOMAIN,ntp.ubuntu.com
@@ -36,6 +37,7 @@ DOMAIN,ntp1.ntp-servers.net
 DOMAIN-SUFFIX,ntp1.plala.or.jp
 DOMAIN-SUFFIX,ntp1.ring.gr.jp
 DOMAIN,ntp1.tencent.com
+DOMAIN,ntp1.time.nl
 DOMAIN-SUFFIX,ntp1.tohoku.ac.jp
 DOMAIN-SUFFIX,ntp1.v6.mfeed.ad.jp
 DOMAIN-SUFFIX,ntp1.wakwak.com
@@ -45,6 +47,7 @@ DOMAIN,ntp2.ntp-servers.net
 DOMAIN-SUFFIX,ntp2.plala.or.jp
 DOMAIN-SUFFIX,ntp2.ring.gr.jp
 DOMAIN,ntp2.tencent.com
+DOMAIN,ntp2.time.nl
 DOMAIN-SUFFIX,ntp2.tohoku.ac.jp
 DOMAIN-SUFFIX,ntp2.v6.mfeed.ad.jp
 DOMAIN-SUFFIX,ntp2.wakwak.com
@@ -63,6 +66,8 @@ DOMAIN,ntp6.aliyun.com
 DOMAIN,ntp6.ntp-servers.net
 DOMAIN,ntp7.aliyun.com
 DOMAIN,ntp7.ntp-servers.net
+DOMAIN,ntppool1.time.nl
+DOMAIN,ntppool2.time.nl
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,s2csntp.miz.nao.ac.jp
 DOMAIN,time-a-b.nist.gov

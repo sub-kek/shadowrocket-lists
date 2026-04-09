@@ -4425,6 +4425,7 @@ DOMAIN-SUFFIX,c-spanvideo.org
 DOMAIN-SUFFIX,c0930.com
 DOMAIN-SUFFIX,c4rex.co
 DOMAIN-SUFFIX,c4slive.com
+DOMAIN-SUFFIX,cabconnect.org
 DOMAIN-SUFFIX,cableav.tv
 DOMAIN-SUFFIX,cableav.xyz
 DOMAIN-SUFFIX,cabletv.com.hk
@@ -4515,6 +4516,7 @@ DOMAIN-SUFFIX,canada-beatsbydre.com
 DOMAIN-SUFFIX,candidforum-videos.com
 DOMAIN-SUFFIX,candycumcity.com
 DOMAIN-SUFFIX,candypleasure.com
+DOMAIN-SUFFIX,canny.io
 DOMAIN-SUFFIX,canon
 DOMAIN-SUFFIX,canon-cee.com
 DOMAIN-SUFFIX,canon-cmos-sensors.com
@@ -6440,6 +6442,7 @@ DOMAIN-SUFFIX,dremonsterbeatsoutlets.com
 DOMAIN-SUFFIX,dreprobeats.com
 DOMAIN-SUFFIX,dreprofy.com
 DOMAIN-SUFFIX,dribbble.com
+DOMAIN-SUFFIX,driveawaytaxi.org
 DOMAIN-SUFFIX,driverxxx.com
 DOMAIN-SUFFIX,drivevideo.xyz
 DOMAIN-SUFFIX,driving.co.uk
@@ -7078,6 +7081,9 @@ DOMAIN-SUFFIX,entrust.cn
 DOMAIN-SUFFIX,entrust.com
 DOMAIN-SUFFIX,entrust.net
 DOMAIN-SUFFIX,entrustdatacard.com
+DOMAIN-SUFFIX,envato-static.com
+DOMAIN-SUFFIX,envato.com
+DOMAIN-SUFFIX,envatousercontent.com
 DOMAIN-SUFFIX,eotarchive.org
 DOMAIN-SUFFIX,epicbrowser.com
 DOMAIN-SUFFIX,epicgames.com
@@ -8970,6 +8976,7 @@ DOMAIN-SUFFIX,gofundme.com
 DOMAIN-SUFFIX,gog-statics.com
 DOMAIN-SUFFIX,gog.com
 DOMAIN,gog.qtlglb.com
+DOMAIN-SUFFIX,gogettaxi.org
 DOMAIN-SUFFIX,gogle.com
 DOMAIN-SUFFIX,gogo-load.com
 DOMAIN-SUFFIX,gogoanime.vc
@@ -9299,6 +9306,7 @@ DOMAIN-SUFFIX,gotgayporn.com
 DOMAIN-SUFFIX,gothdporn.com
 DOMAIN-SUFFIX,gotporn.com
 DOMAIN-SUFFIX,gotraffic.net
+DOMAIN-SUFFIX,goup.ai
 DOMAIN-SUFFIX,gouri.xyz
 DOMAIN-SUFFIX,governmentengineer.com
 DOMAIN-SUFFIX,govforce.com
@@ -9529,6 +9537,7 @@ DOMAIN-SUFFIX,hayabusa.io
 DOMAIN-SUFFIX,hayabusa.media
 DOMAIN-SUFFIX,hayday.com
 DOMAIN-SUFFIX,haydaygame.com
+DOMAIN-SUFFIX,hayya.ae
 DOMAIN-SUFFIX,hbabit.com
 DOMAIN-SUFFIX,hbfile.net
 DOMAIN-SUFFIX,hbo-europe.com
@@ -11680,6 +11689,21 @@ DOMAIN-SUFFIX,jiuse6666.com
 DOMAIN-SUFFIX,jiuse821.com
 DOMAIN-SUFFIX,jiuse822.com
 DOMAIN-SUFFIX,jiuse823.com
+DOMAIN-SUFFIX,jivo.chat
+DOMAIN-SUFFIX,jivo.ru
+DOMAIN-SUFFIX,jivochat.co.in
+DOMAIN-SUFFIX,jivochat.co.za
+DOMAIN-SUFFIX,jivochat.com
+DOMAIN-SUFFIX,jivochat.com.br
+DOMAIN-SUFFIX,jivochat.com.co
+DOMAIN-SUFFIX,jivochat.com.pe
+DOMAIN-SUFFIX,jivochat.com.tr
+DOMAIN-SUFFIX,jivochat.de
+DOMAIN-SUFFIX,jivochat.es
+DOMAIN-SUFFIX,jivochat.ng
+DOMAIN-SUFFIX,jivochat.ru
+DOMAIN-SUFFIX,jivosite.com
+DOMAIN-SUFFIX,jivosite.ru
 DOMAIN-SUFFIX,jiyou520.com
 DOMAIN-SUFFIX,jiyu-kobo.co.jp
 DOMAIN-SUFFIX,jizzboom.com
@@ -14035,6 +14059,7 @@ DOMAIN-SUFFIX,mxshm.site
 DOMAIN-SUFFIX,my-enema.com
 DOMAIN-SUFFIX,my-formosa.com
 DOMAIN-SUFFIX,my-magazine.me
+DOMAIN-SUFFIX,my-manager-account.com
 DOMAIN-SUFFIX,my13la.com
 DOMAIN-SUFFIX,my1stflame.com
 DOMAIN-SUFFIX,my20dc.com
@@ -14895,6 +14920,7 @@ DOMAIN-SUFFIX,ntp.ripe.net
 DOMAIN-SUFFIX,ntp.se
 DOMAIN-SUFFIX,ntp.t.ring.gr.jp
 DOMAIN,ntp.tencent.com
+DOMAIN,ntp.time.nl
 DOMAIN-SUFFIX,ntp.tohoku.ac.jp
 DOMAIN-SUFFIX,ntp.tut.ac.jp
 DOMAIN-SUFFIX,ntp.ufe.cz
@@ -14906,6 +14932,7 @@ DOMAIN,ntp1.ntp-servers.net
 DOMAIN-SUFFIX,ntp1.plala.or.jp
 DOMAIN-SUFFIX,ntp1.ring.gr.jp
 DOMAIN,ntp1.tencent.com
+DOMAIN,ntp1.time.nl
 DOMAIN-SUFFIX,ntp1.tohoku.ac.jp
 DOMAIN-SUFFIX,ntp1.v6.mfeed.ad.jp
 DOMAIN-SUFFIX,ntp1.wakwak.com
@@ -14915,6 +14942,7 @@ DOMAIN,ntp2.ntp-servers.net
 DOMAIN-SUFFIX,ntp2.plala.or.jp
 DOMAIN-SUFFIX,ntp2.ring.gr.jp
 DOMAIN,ntp2.tencent.com
+DOMAIN,ntp2.time.nl
 DOMAIN-SUFFIX,ntp2.tohoku.ac.jp
 DOMAIN-SUFFIX,ntp2.v6.mfeed.ad.jp
 DOMAIN-SUFFIX,ntp2.wakwak.com
@@ -14933,6 +14961,8 @@ DOMAIN,ntp6.aliyun.com
 DOMAIN,ntp6.ntp-servers.net
 DOMAIN,ntp7.aliyun.com
 DOMAIN,ntp7.ntp-servers.net
+DOMAIN,ntppool1.time.nl
+DOMAIN,ntppool2.time.nl
 DOMAIN-SUFFIX,ntten-mg.buzz
 DOMAIN-SUFFIX,nu-bay.com
 DOMAIN-SUFFIX,nu36.vip
@@ -17114,7 +17144,7 @@ DOMAIN-SUFFIX,rentaride.de
 DOMAIN-SUFFIX,renzhe.cloud
 DOMAIN-SUFFIX,repe21.com
 DOMAIN-SUFFIX,repo.new
-DOMAIN,report.ap.yandex-net.ru
+DOMAIN-SUFFIX,report.ap.yandex-net.ru
 DOMAIN-SUFFIX,repotama.com
 DOMAIN-SUFFIX,repsils.no
 DOMAIN-SUFFIX,repsneakermall.com
@@ -18856,6 +18886,7 @@ DOMAIN-SUFFIX,superstation.com.tw
 DOMAIN-SUFFIX,superuser.com
 DOMAIN-SUFFIX,supjav.com
 DOMAIN-SUFFIX,supplybestjerseys.com
+DOMAIN-SUFFIX,support-uber.com
 DOMAIN-SUFFIX,supportfacebook.com
 DOMAIN-SUFFIX,supremacy.com
 DOMAIN-SUFFIX,supremacy.net
@@ -19031,7 +19062,10 @@ DOMAIN-SUFFIX,tati-log.com
 DOMAIN-SUFFIX,tawny-peaks.com
 DOMAIN-SUFFIX,taxel.media
 DOMAIN-SUFFIX,taxi69.com
+DOMAIN-SUFFIX,taxiaid.org
 DOMAIN-SUFFIX,taxidrivermovie.com
+DOMAIN-SUFFIX,taxiguru.org
+DOMAIN-SUFFIX,taxitax.org
 DOMAIN-SUFFIX,taylorandfrancis.com
 DOMAIN-SUFFIX,taylorfrancis.com
 DOMAIN-SUFFIX,tbank-online.com
@@ -19276,6 +19310,7 @@ DOMAIN-SUFFIX,thelittleslush.com
 DOMAIN-SUFFIX,theman.in
 DOMAIN-SUFFIX,themarvelexperiencetour.com
 DOMAIN-SUFFIX,themathsfactor.com
+DOMAIN-SUFFIX,themeforest.net
 DOMAIN-SUFFIX,themercury.com.au
 DOMAIN-SUFFIX,themessengeradelaide.com.au
 DOMAIN-SUFFIX,themilfmovies.com
@@ -20028,6 +20063,7 @@ DOMAIN-SUFFIX,uux68.com
 DOMAIN-SUFFIX,uverse.com
 DOMAIN-SUFFIX,uwn.com
 DOMAIN-SUFFIX,uwpcommunitytoolkit.com
+DOMAIN-SUFFIX,uxthemes.com
 DOMAIN-SUFFIX,v-av.com
 DOMAIN-SUFFIX,v-has.com
 DOMAIN-SUFFIX,v.gd
@@ -22103,10 +22139,25 @@ DOMAIN-SUFFIX,yandex.uz
 DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,yandexcloud.net
 DOMAIN-SUFFIX,yandexcom.net
+DOMAIN-SUFFIX,yandexgo.com
 DOMAIN-SUFFIX,yandexlyceum.ru
 DOMAIN-SUFFIX,yandexmetrica.com
 DOMAIN-SUFFIX,yandexwebcache.net
 DOMAIN-SUFFIX,yandexwebcache.org
+DOMAIN-SUFFIX,yango-ads.com
+DOMAIN-SUFFIX,yango-b2b.com
+DOMAIN-SUFFIX,yango-team.com
+DOMAIN-SUFFIX,yango-tech.com
+DOMAIN-SUFFIX,yango.africa
+DOMAIN-SUFFIX,yango.ao
+DOMAIN-SUFFIX,yango.bh
+DOMAIN-SUFFIX,yango.co.il
+DOMAIN-SUFFIX,yango.com
+DOMAIN-SUFFIX,yango.fi
+DOMAIN-SUFFIX,yango.qa
+DOMAIN-SUFFIX,yango.taxi
+DOMAIN-SUFFIX,yango.tech
+DOMAIN-SUFFIX,yangofellowship.com
 DOMAIN,yangzhi.app
 DOMAIN-SUFFIX,yantaqu.com
 DOMAIN-SUFFIX,yaohubaba.com

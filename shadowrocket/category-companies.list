@@ -1676,6 +1676,7 @@ DOMAIN-SUFFIX,bybeatsdre.com
 DOMAIN-SUFFIX,bydrebeats.com
 DOMAIN-SUFFIX,c-ij.com
 DOMAIN-SUFFIX,c-msedge.net
+DOMAIN-SUFFIX,cabconnect.org
 DOMAIN-SUFFIX,cabletvdirectv.com
 DOMAIN-SUFFIX,cad-mep.com
 DOMAIN-SUFFIX,cadcamsystemsinc.com
@@ -2484,6 +2485,7 @@ DOMAIN-SUFFIX,drebyby.com
 DOMAIN-SUFFIX,dremonsterbeatsoutlets.com
 DOMAIN-SUFFIX,dreprobeats.com
 DOMAIN-SUFFIX,dreprofy.com
+DOMAIN-SUFFIX,driveawaytaxi.org
 DOMAIN-SUFFIX,drnastran.com
 DOMAIN-SUFFIX,drweb-av.de
 DOMAIN-SUFFIX,drweb-av.es
@@ -3201,6 +3203,7 @@ DOMAIN-SUFFIX,godaddy
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,gofile.me
+DOMAIN-SUFFIX,gogettaxi.org
 DOMAIN-SUFFIX,gogle.com
 DOMAIN-SUFFIX,gogole.com
 DOMAIN-SUFFIX,golang.com
@@ -3485,6 +3488,7 @@ DOMAIN-SUFFIX,gopivotal.net
 DOMAIN-SUFFIX,gordonmoore.com
 DOMAIN-SUFFIX,gostorego.com
 DOMAIN-SUFFIX,gotcosmos.com
+DOMAIN-SUFFIX,goup.ai
 DOMAIN-SUFFIX,governmentengineer.com
 DOMAIN-SUFFIX,govforce.com
 DOMAIN-SUFFIX,gpsonextra.net
@@ -3540,6 +3544,7 @@ DOMAIN-SUFFIX,hangout
 DOMAIN-SUFFIX,haplorrhini.com
 DOMAIN-SUFFIX,happysrv.de
 DOMAIN-SUFFIX,hashicorp.com
+DOMAIN-SUFFIX,hayya.ae
 DOMAIN-SUFFIX,hddirectv.com
 DOMAIN-SUFFIX,hdinsightservices.cn
 DOMAIN-SUFFIX,hdrplusdata.org
@@ -5068,6 +5073,7 @@ DOMAIN-SUFFIX,mxroute.com
 DOMAIN-SUFFIX,mxroutedocs.com
 DOMAIN-SUFFIX,mxroutehelp.com
 DOMAIN-SUFFIX,mxrouting.net
+DOMAIN-SUFFIX,my-manager-account.com
 DOMAIN-SUFFIX,my1stflame.com
 DOMAIN-SUFFIX,myappleid.com
 DOMAIN-SUFFIX,myautocad.com
@@ -5659,7 +5665,7 @@ DOMAIN-SUFFIX,renovacionoffice.com
 DOMAIN-SUFFIX,renovacionxboxlive.com
 DOMAIN-SUFFIX,renshu.com
 DOMAIN-SUFFIX,repo.new
-DOMAIN,report.ap.yandex-net.ru
+DOMAIN-SUFFIX,report.ap.yandex-net.ru
 DOMAIN-SUFFIX,repsneakermall.com
 DOMAIN-SUFFIX,repswing.com
 DOMAIN-SUFFIX,researchandcare.org
@@ -6070,6 +6076,7 @@ DOMAIN-SUFFIX,superearsenjoy.com
 DOMAIN-SUFFIX,supersrv.de
 DOMAIN-SUFFIX,supplybestjerseys.com
 DOMAIN,support-china.apple-support.akadns.net
+DOMAIN-SUFFIX,support-uber.com
 DOMAIN-SUFFIX,supportfacebook.com
 DOMAIN-SUFFIX,surface.com
 DOMAIN-SUFFIX,sustainablebuildingstudio.com
@@ -6112,6 +6119,9 @@ DOMAIN-SUFFIX,tamtam.chat
 DOMAIN-SUFFIX,tandberg-china.com
 DOMAIN-SUFFIX,tandberg.com
 DOMAIN-SUFFIX,taxel.media
+DOMAIN-SUFFIX,taxiaid.org
+DOMAIN-SUFFIX,taxiguru.org
+DOMAIN-SUFFIX,taxitax.org
 DOMAIN-SUFFIX,teamviewer.cn
 DOMAIN-SUFFIX,teamviewer.com
 DOMAIN,teamviewer.com.cdn.cloudflare.net
@@ -6888,10 +6898,25 @@ DOMAIN-SUFFIX,yandex.uz
 DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,yandexcloud.net
 DOMAIN-SUFFIX,yandexcom.net
+DOMAIN-SUFFIX,yandexgo.com
 DOMAIN-SUFFIX,yandexlyceum.ru
 DOMAIN-SUFFIX,yandexmetrica.com
 DOMAIN-SUFFIX,yandexwebcache.net
 DOMAIN-SUFFIX,yandexwebcache.org
+DOMAIN-SUFFIX,yango-ads.com
+DOMAIN-SUFFIX,yango-b2b.com
+DOMAIN-SUFFIX,yango-team.com
+DOMAIN-SUFFIX,yango-tech.com
+DOMAIN-SUFFIX,yango.africa
+DOMAIN-SUFFIX,yango.ao
+DOMAIN-SUFFIX,yango.bh
+DOMAIN-SUFFIX,yango.co.il
+DOMAIN-SUFFIX,yango.com
+DOMAIN-SUFFIX,yango.fi
+DOMAIN-SUFFIX,yango.qa
+DOMAIN-SUFFIX,yango.taxi
+DOMAIN-SUFFIX,yango.tech
+DOMAIN-SUFFIX,yangofellowship.com
 DOMAIN-SUFFIX,yastat.net
 DOMAIN-SUFFIX,yastatic-net.ru
 DOMAIN-SUFFIX,yastatic.net
