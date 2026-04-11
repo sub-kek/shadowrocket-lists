@@ -100,9 +100,11 @@ DOMAIN-SUFFIX,home.arpa
 DOMAIN,instant.arubanetworks.com
 DOMAIN-SUFFIX,internal
 DOMAIN-SUFFIX,invalid
+DOMAIN-SUFFIX,kis.v2.scr.kaspersky-labs.com
 DOMAIN-SUFFIX,lan
 DOMAIN-SUFFIX,leike.cc
 DOMAIN-SUFFIX,local
+DOMAIN,local.adguard.org
 DOMAIN-SUFFIX,localdomain
 DOMAIN-SUFFIX,localhost
 DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
