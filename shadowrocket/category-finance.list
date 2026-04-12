@@ -24,12 +24,15 @@ DOMAIN-SUFFIX,abank.com.mm
 DOMAIN-SUFFIX,ablmm.com
 DOMAIN-SUFFIX,aboutschwab.com
 DOMAIN-SUFFIX,abr.ru
+DOMAIN-SUFFIX,accesspoint.uz
 DOMAIN-SUFFIX,afisha.ru
 DOMAIN-SUFFIX,agdbank.com
 DOMAIN-SUFFIX,agri-bank.com
 DOMAIN-SUFFIX,akita-bank.co.jp
+DOMAIN-SUFFIX,alfabank.oavdo.amc
 DOMAIN-SUFFIX,alfabank.ru
 DOMAIN-SUFFIX,alfabank.st
+DOMAIN-SUFFIX,alfadirect.ru
 DOMAIN-SUFFIX,ansarbank.com
 DOMAIN-SUFFIX,aozorabank.co.jp
 DOMAIN-SUFFIX,ashikagabank.co.jp
@@ -42,6 +45,8 @@ DOMAIN-SUFFIX,bank-maskan.ir
 DOMAIN-SUFFIX,bankline.ru
 DOMAIN-SUFFIX,bankmellat.ir
 DOMAIN-SUFFIX,banksepah.ir
+DOMAIN-SUFFIX,bcs-bank.ru
+DOMAIN-SUFFIX,bcs.ru
 DOMAIN-SUFFIX,bim.ir
 DOMAIN-SUFFIX,bk.mufg.jp
 DOMAIN-SUFFIX,blubank.com
@@ -50,6 +55,7 @@ DOMAIN-SUFFIX,boj.or.jp
 DOMAIN-SUFFIX,booking-tec.ru
 DOMAIN-SUFFIX,bpi.ir
 DOMAIN-SUFFIX,bps-sberbank.by
+DOMAIN-SUFFIX,broker.ru
 DOMAIN-SUFFIX,bsi.ir
 DOMAIN-SUFFIX,capitalt.ru
 DOMAIN-SUFFIX,cardsmobile.ru
@@ -68,6 +74,7 @@ DOMAIN-SUFFIX,citydrive.ru
 DOMAIN-SUFFIX,cloud.ru
 DOMAIN-SUFFIX,cloudru.cn
 DOMAIN-SUFFIX,codeseason.by
+DOMAIN-SUFFIX,cplsb.ru
 DOMAIN-SUFFIX,cu.ru
 DOMAIN-SUFFIX,custody.ru
 DOMAIN-SUFFIX,daiichibank.co.jp
@@ -108,8 +115,10 @@ DOMAIN-SUFFIX,gazprombank.com
 DOMAIN-SUFFIX,gazprombank.investments
 DOMAIN-SUFFIX,gazprombank.ru
 DOMAIN-SUFFIX,gbank.com.mm
+DOMAIN-SUFFIX,getsynapse.io
 DOMAIN-SUFFIX,ghbi.ir
 DOMAIN-SUFFIX,giga.chat
+DOMAIN-SUFFIX,gitverse.ru
 DOMAIN-SUFFIX,gosdolgi.ru
 DOMAIN-SUFFIX,gpb.ru
 DOMAIN-SUFFIX,gunmabank.co.jp
@@ -274,6 +283,7 @@ DOMAIN-SUFFIX,michinokubank.co.jp
 DOMAIN-SUFFIX,mie.co.jp
 DOMAIN-SUFFIX,miyazakibank.co.jp
 DOMAIN-SUFFIX,mizuhobank.co.jp
+DOMAIN-SUFFIX,mkb.ru
 DOMAIN-SUFFIX,mmbbank.com.mm
 DOMAIN-SUFFIX,mmftb.gov.mm
 DOMAIN-SUFFIX,mminsurance.gov.mm
@@ -288,6 +298,7 @@ DOMAIN-SUFFIX,mtsdengi.ru
 DOMAIN-SUFFIX,musashinobank.co.jp
 DOMAIN-SUFFIX,mwdbank.com
 DOMAIN-SUFFIX,my-tbank.ru
+DOMAIN-SUFFIX,myapelsin.ru
 DOMAIN-SUFFIX,myfin.bg
 DOMAIN-SUFFIX,n26.com
 DOMAIN-SUFFIX,nantobank.co.jp
@@ -303,9 +314,11 @@ DOMAIN-SUFFIX,okko.sport
 DOMAIN-SUFFIX,okko.tv
 DOMAIN-SUFFIX,otello.ru
 DOMAIN-SUFFIX,parsian-bank.com
+DOMAIN-SUFFIX,payecom.ru
 DOMAIN-SUFFIX,payment.ru
 DOMAIN-SUFFIX,paypay-bank.co.jp
 DOMAIN-SUFFIX,phoenix-ca.ru
+DOMAIN-SUFFIX,platiecom.ru
 DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,pochtabank.ru
 DOMAIN-SUFFIX,postbank.ir
@@ -321,6 +334,7 @@ DOMAIN-SUFFIX,rbcollect.ru
 DOMAIN-SUFFIX,rbcredit.ru
 DOMAIN-SUFFIX,refah-bank.ir
 DOMAIN-SUFFIX,resonabank.co.jp
+DOMAIN-SUFFIX,restnproducts.ru
 DOMAIN-SUFFIX,rf-sim-mobile.ru
 DOMAIN-SUFFIX,rosbank-auto.ru
 DOMAIN-SUFFIX,rosbank-capital.ru
@@ -348,11 +362,13 @@ DOMAIN-SUFFIX,sberauto.com
 DOMAIN-SUFFIX,sberbank-insurance.ru
 DOMAIN-SUFFIX,sberbank.com
 DOMAIN-SUFFIX,sberbank.ru
+DOMAIN-SUFFIX,sberbankaktivno.ru
 DOMAIN-SUFFIX,sberbankins.ru
 DOMAIN-SUFFIX,sbercloud.ru
 DOMAIN-SUFFIX,sbercloud.tech
 DOMAIN-SUFFIX,sberdevices.ru
 DOMAIN-SUFFIX,sberdisk.ru
+DOMAIN-SUFFIX,sberfactoring.ru
 DOMAIN-SUFFIX,sberhealth.ru
 DOMAIN-SUFFIX,sberindex.ru
 DOMAIN-SUFFIX,sberleasing.ru
@@ -362,8 +378,11 @@ DOMAIN-SUFFIX,sbermegamarket.ru
 DOMAIN-SUFFIX,sbermobile.ru
 DOMAIN-SUFFIX,sberpb.ru
 DOMAIN,sberpro.vedomosti.ru
+DOMAIN-SUFFIX,sberspasibo.ru
+DOMAIN-SUFFIX,sbertech.ru
 DOMAIN-SUFFIX,sbertroika.ru
 DOMAIN-SUFFIX,sbishinseibank.co.jp
+DOMAIN-SUFFIX,sbrf.ru
 DOMAIN-SUFFIX,sc.com
 DOMAIN-SUFFIX,schwab.co.uk
 DOMAIN-SUFFIX,schwab.com
@@ -389,6 +408,9 @@ DOMAIN-SUFFIX,smbctb.co.jp
 DOMAIN-SUFFIX,smedevelopmentbank.com.mm
 DOMAIN-SUFFIX,smtb.jp
 DOMAIN-SUFFIX,sonybank.jp
+DOMAIN-SUFFIX,spasibo.digital
+DOMAIN-SUFFIX,spasibo.market
+DOMAIN-SUFFIX,spasibobonus.ru
 DOMAIN-SUFFIX,spasibosb.ru
 DOMAIN-SUFFIX,spasibosberbank.ru
 DOMAIN-SUFFIX,standardchartered.com
@@ -397,6 +419,7 @@ DOMAIN,standchartbank.tt.omtrdc.net
 DOMAIN-SUFFIX,surugabank.co.jp
 DOMAIN-SUFFIX,t-access.ru
 DOMAIN-SUFFIX,t-bank-app.ru
+DOMAIN-SUFFIX,t-bank-app.su
 DOMAIN-SUFFIX,t-bank.by
 DOMAIN-SUFFIX,t-calls.ru
 DOMAIN-SUFFIX,t-capital-funds.ru

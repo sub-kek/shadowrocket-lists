@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,apivoid.com
 DOMAIN-SUFFIX,bigdatacloud.net
 DOMAIN-SUFFIX,check-host.net
 DOMAIN,checkip.amazonaws.com
+DOMAIN,checkip.dyn.com
+DOMAIN,checkip.dyndns.org
 DOMAIN-SUFFIX,checkip.org
 DOMAIN-SUFFIX,checkip.ru
 DOMAIN-SUFFIX,country.is
