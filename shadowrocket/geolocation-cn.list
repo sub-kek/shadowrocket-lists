@@ -960,7 +960,6 @@ DOMAIN-SUFFIX,bosc.cn
 DOMAIN-SUFFIX,boscam.com.cn
 DOMAIN-SUFFIX,bosera.com
 DOMAIN-SUFFIX,bosszhipin.com
-DOMAIN-SUFFIX,botvip.cn
 DOMAIN-SUFFIX,bouffalolab.com
 DOMAIN-SUFFIX,boxdouyin.com
 DOMAIN-SUFFIX,bplslb.com
@@ -3777,6 +3776,8 @@ DOMAIN-SUFFIX,liaoxuefeng.com
 DOMAIN-SUFFIX,liba.com
 DOMAIN-SUFFIX,libaclub.com
 DOMAIN-SUFFIX,liblib.art
+DOMAIN-SUFFIX,liblib.cloud
+DOMAIN-SUFFIX,liblib.tv
 DOMAIN-SUFFIX,libvideo.com
 DOMAIN-SUFFIX,liebao.cn
 DOMAIN-SUFFIX,liepin.com
@@ -5121,6 +5122,7 @@ DOMAIN-SUFFIX,tapapks.com
 DOMAIN-SUFFIX,tapd.cn
 DOMAIN-SUFFIX,tapimg.com
 DOMAIN-SUFFIX,tapimg.net
+DOMAIN-SUFFIX,tapnow.top
 DOMAIN-SUFFIX,taptap.cn
 DOMAIN-SUFFIX,taptap.com
 DOMAIN-SUFFIX,taptap.io
