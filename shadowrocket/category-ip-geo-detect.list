@@ -52,6 +52,7 @@ DOMAIN-SUFFIX,ip.hetzner.com
 DOMAIN-SUFFIX,ip.mail.ru
 DOMAIN-SUFFIX,ip.me
 DOMAIN-SUFFIX,ip.nic.ru
+DOMAIN-SUFFIX,ip.pe.kr
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ip.tyk.nu
 DOMAIN-SUFFIX,ip2c.org
@@ -133,6 +134,7 @@ DOMAIN-SUFFIX,tnx.nl
 DOMAIN-SUFFIX,tracemyip.org
 DOMAIN-SUFFIX,trustmyip.com
 DOMAIN-SUFFIX,wgetip.com
+DOMAIN,whatismyip.akamai.com
 DOMAIN-SUFFIX,whatismyip.com
 DOMAIN-SUFFIX,whatismyip.net
 DOMAIN-SUFFIX,whatismyip.org
