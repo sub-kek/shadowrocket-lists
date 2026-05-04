@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,7box.vip
 DOMAIN-SUFFIX,a.adtng.com
 DOMAIN-SUFFIX,a.alimama.cn
 DOMAIN-SUFFIX,a.market.xiaomi.com
+DOMAIN-SUFFIX,a.mts.ru
 DOMAIN-SUFFIX,a.youdao.com
 DOMAIN-SUFFIX,aaxads.com
 DOMAIN,ad-channel.diwodiwo.xyz
@@ -515,6 +516,7 @@ DOMAIN-SUFFIX,nsclick.baidu.com
 DOMAIN-SUFFIX,nsclickvideo.baidu.com
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,o4504926511693824.ingest.sentry.io
+DOMAIN-SUFFIX,obs.mts.ru
 DOMAIN-SUFFIX,oct.pocoiq.cn
 DOMAIN-SUFFIX,ogury.co
 DOMAIN-SUFFIX,ogury.com
@@ -618,6 +620,7 @@ DOMAIN-SUFFIX,sentry.d.xiaomi.net
 DOMAIN,sentry.dev-my.com
 DOMAIN,sentry.dev-my.games
 DOMAIN,sentry.hetzner.company
+DOMAIN,sentry.iptv.rt.ru
 DOMAIN,sentry.kontur.host
 DOMAIN,sentry.mindbox.ru
 DOMAIN-SUFFIX,sentry.music.163.com
