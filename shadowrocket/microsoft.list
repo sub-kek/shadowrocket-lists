@@ -197,6 +197,11 @@ DOMAIN-SUFFIX,gigjam.com
 DOMAIN-SUFFIX,git.io
 DOMAIN,github-api.arkoselabs.com
 DOMAIN,github-cloud.s3.amazonaws.com
+DOMAIN,github-production-release-asset-2e65be.s3.amazonaws.com
+DOMAIN,github-production-repository-file-5c1aeb.s3.amazonaws.com
+DOMAIN,github-production-repository-image-32fea6.s3.amazonaws.com
+DOMAIN,github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+DOMAIN,github-production-user-asset-6210df.s3.amazonaws.com
 DOMAIN-SUFFIX,github.ai
 DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.com
