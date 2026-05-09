@@ -462,6 +462,7 @@ DOMAIN-SUFFIX,alimei.com
 DOMAIN-SUFFIX,alimmdn.com
 DOMAIN-SUFFIX,alipan.com
 DOMAIN-SUFFIX,alipay
+DOMAIN-SUFFIX,alipay-eco.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,alipaydns.com
 DOMAIN-SUFFIX,alipaylog.com
@@ -2133,6 +2134,7 @@ DOMAIN-SUFFIX,hc-cdn.com
 DOMAIN-SUFFIX,hc-sre.com
 DOMAIN-SUFFIX,hczq.com
 DOMAIN-SUFFIX,hdfimg.com
+DOMAIN-SUFFIX,hdlcdns.com
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,hdslb.org
 DOMAIN-SUFFIX,hdyxgame.com
@@ -2312,6 +2314,7 @@ DOMAIN-SUFFIX,hweventgrid.com
 DOMAIN-SUFFIX,hwocloud.com
 DOMAIN-SUFFIX,hwshu.com
 DOMAIN-SUFFIX,hwtrip.com
+DOMAIN-SUFFIX,hwwt8.com
 DOMAIN-SUFFIX,hxfy888.com
 DOMAIN-SUFFIX,hxsd.com
 DOMAIN-SUFFIX,hybiome.com
@@ -2791,6 +2794,7 @@ DOMAIN-SUFFIX,kingdee.com
 DOMAIN-SUFFIX,kinghomechina.com
 DOMAIN-SUFFIX,kingsoft-office-service.com
 DOMAIN-SUFFIX,kingsoft.com
+DOMAIN-SUFFIX,kiwa-tech.com
 DOMAIN-SUFFIX,kiyuu.club
 DOMAIN-SUFFIX,kjcdn.com
 DOMAIN-SUFFIX,kjwugx.com
@@ -3135,6 +3139,7 @@ DOMAIN-SUFFIX,mblyun.com
 DOMAIN-SUFFIX,mcbaas.work
 DOMAIN-SUFFIX,mcbang.com
 DOMAIN-SUFFIX,mcbbs.net
+DOMAIN-SUFFIX,mcdchina.net
 DOMAIN-SUFFIX,mcdemo.show
 DOMAIN-SUFFIX,mchost.guru
 DOMAIN-SUFFIX,mdeer.com
@@ -3286,6 +3291,8 @@ DOMAIN-SUFFIX,muzhiwan.com
 DOMAIN-SUFFIX,mvad.com
 DOMAIN-SUFFIX,mwcdns.com
 DOMAIN-SUFFIX,mwcloudcdn.com
+DOMAIN-SUFFIX,mxbc.com
+DOMAIN-SUFFIX,mxbc.net
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,my-qcloud.com
 DOMAIN-SUFFIX,my4399.com
@@ -3687,6 +3694,7 @@ DOMAIN-SUFFIX,qizuang.com
 DOMAIN-SUFFIX,ql1d.com
 DOMAIN-SUFFIX,qlivecdn.com
 DOMAIN-SUFFIX,qm989.com
+DOMAIN-SUFFIX,qmai.com
 DOMAIN-SUFFIX,qmniu.com
 DOMAIN-SUFFIX,qnsdk.com
 DOMAIN-SUFFIX,qnssl.com
@@ -3885,6 +3893,7 @@ DOMAIN-SUFFIX,shuoshuokong.com
 DOMAIN-SUFFIX,shuqi.com
 DOMAIN-SUFFIX,shuqireader.com
 DOMAIN-SUFFIX,shutcm.com
+DOMAIN-SUFFIX,shuxinyc.com
 DOMAIN-SUFFIX,shyhhema.com
 DOMAIN-SUFFIX,shyxhy.com
 DOMAIN-SUFFIX,shzq.com
@@ -5092,6 +5101,7 @@ DOMAIN-SUFFIX,yuelun.com
 DOMAIN-SUFFIX,yuewen.com
 DOMAIN-SUFFIX,yufuid.com
 DOMAIN-SUFFIX,yufuid.net
+DOMAIN-SUFFIX,yumchina.com
 DOMAIN-SUFFIX,yunaq.com
 DOMAIN-SUFFIX,yunba.io
 DOMAIN-SUFFIX,yunda56.com
