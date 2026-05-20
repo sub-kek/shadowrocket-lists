@@ -101,6 +101,7 @@ DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,minimax.io
 DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,mozilla.ai
 DOMAIN,notebooklm-pa.googleapis.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
@@ -137,6 +138,7 @@ DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,spicywriter.com
 DOMAIN-SUFFIX,stitch.withgoogle.com
+DOMAIN-SUFFIX,tapnow.ai
 DOMAIN-SUFFIX,themeforest.net
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,turn.livekit.cloud
