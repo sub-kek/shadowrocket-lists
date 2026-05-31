@@ -5226,6 +5226,7 @@ DOMAIN-SUFFIX,movidius.net
 DOMAIN-SUFFIX,movidius.org
 DOMAIN-SUFFIX,movika.com
 DOMAIN-SUFFIX,mozgcp.net
+DOMAIN,mozilla-ohttp.fastly-edge.com
 DOMAIN-SUFFIX,mozilla.ai
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.community

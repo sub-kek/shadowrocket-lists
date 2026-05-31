@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,kiwibrowser.com
 DOMAIN-SUFFIX,kmeleonbrowser.org
 DOMAIN-SUFFIX,librewolf.net
 DOMAIN-SUFFIX,minbrowser.org
+DOMAIN,mozilla-ohttp.fastly-edge.com
 DOMAIN-SUFFIX,netsurf-browser.org
 DOMAIN-SUFFIX,opera.com
 DOMAIN-SUFFIX,palemoon.org

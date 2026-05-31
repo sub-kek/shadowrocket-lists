@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,mdn.mozit.cloud
 DOMAIN-SUFFIX,mdnplay.dev
 DOMAIN-SUFFIX,mdnyalp.dev
 DOMAIN-SUFFIX,mozgcp.net
+DOMAIN,mozilla-ohttp.fastly-edge.com
 DOMAIN-SUFFIX,mozilla.ai
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.community
