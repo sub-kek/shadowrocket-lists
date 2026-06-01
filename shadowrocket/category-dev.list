@@ -181,6 +181,7 @@ DOMAIN-SUFFIX,gentoo.org
 DOMAIN-SUFFIX,getbootstrap.com
 DOMAIN-SUFFIX,getcomposer.org
 DOMAIN-SUFFIX,getfedora.org
+DOMAIN-SUFFIX,getpaint.net
 DOMAIN-SUFFIX,getzola.org
 DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,ghcr.io
@@ -370,6 +371,7 @@ DOMAIN-SUFFIX,packagecloud.io
 DOMAIN,packages.microsoft.com
 DOMAIN-SUFFIX,packagist.org
 DOMAIN-SUFFIX,packer.io
+DOMAIN-SUFFIX,paint.net
 DOMAIN-SUFFIX,parse.com
 DOMAIN-SUFFIX,pcre.org
 DOMAIN-SUFFIX,perl.org
