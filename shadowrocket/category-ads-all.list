@@ -30,7 +30,6 @@ DOMAIN,ad.ozone.ru
 DOMAIN-SUFFIX,ad.qq.com
 DOMAIN-SUFFIX,ad.qun.qq.com
 DOMAIN-SUFFIX,ad.sina.com.cn
-DOMAIN-SUFFIX,ad.tencentmusic.com
 DOMAIN-SUFFIX,ad.toutiao.com
 DOMAIN-SUFFIX,ad.us.sinaimg.cn
 DOMAIN-SUFFIX,ad.wang502.com
@@ -47,7 +46,6 @@ DOMAIN-SUFFIX,adashx.m.taobao.com
 DOMAIN-SUFFIX,adashx4ae.ut.taobao.com
 DOMAIN-SUFFIX,adashx4yt.m.taobao.com
 DOMAIN-SUFFIX,adashxgc.ut.taobao.com
-DOMAIN-SUFFIX,adbehavior.ximalaya.com
 DOMAIN-SUFFIX,adbkwai.com
 DOMAIN-SUFFIX,adbox.sina.com.cn
 DOMAIN-SUFFIX,adbutter.net
@@ -100,7 +98,6 @@ DOMAIN,ads.mozilla.org
 DOMAIN-SUFFIX,ads.music.126.net
 DOMAIN,ads.rustore.ru
 DOMAIN-SUFFIX,ads.sber.ru
-DOMAIN-SUFFIX,ads.service.kugou.com
 DOMAIN-SUFFIX,ads.sina.com
 DOMAIN-SUFFIX,ads.sohu.com
 DOMAIN-SUFFIX,ads.trafficjunky.net
@@ -123,15 +120,11 @@ DOMAIN,adsapp.telega.info
 DOMAIN-SUFFIX,adscdn.baidu.com
 DOMAIN-SUFFIX,adsclick.qq.com
 DOMAIN,adsdk.yandex.ru
-DOMAIN-SUFFIX,adse.wsa.ximalaya.com
-DOMAIN-SUFFIX,adse.ximalaya.com
 DOMAIN-SUFFIX,adsense.com
 DOMAIN-SUFFIX,adsensecustomsearchads.com
 DOMAIN-SUFFIX,adsenseformobileapps.com
 DOMAIN-SUFFIX,adservice.google.com
 DOMAIN-SUFFIX,adservice.sigmob.cn
-DOMAIN-SUFFIX,adserviceretry.kglink.cn
-DOMAIN-SUFFIX,adserviceretry.kugou.com
 DOMAIN-SUFFIX,adsfile.qq.com
 DOMAIN-SUFFIX,adsgram.ai
 DOMAIN-SUFFIX,adsh.m.taobao.com
@@ -140,7 +133,6 @@ DOMAIN-SUFFIX,adslvfile.qq.com
 DOMAIN-SUFFIX,adslvseed.qq.com
 DOMAIN-SUFFIX,adsmind.apdcdn.tc.qq.com
 DOMAIN-SUFFIX,adsqqclick.qq.com
-DOMAIN-SUFFIX,adstats.tencentmusic.com
 DOMAIN-SUFFIX,adstestview.qq.com
 DOMAIN,adstudio-assets.scdn.co
 DOMAIN-SUFFIX,adsview.qq.com
@@ -501,7 +493,6 @@ DOMAIN-SUFFIX,mobads-pre-config.cdn.bcebos.com
 DOMAIN-SUFFIX,mobads.baidu.com
 DOMAIN-SUFFIX,mobileads.google.com
 DOMAIN-SUFFIX,mobwithad.com
-DOMAIN-SUFFIX,monitor.music.qq.com
 DOMAIN-SUFFIX,monitor.uu.qq.com
 DOMAIN-SUFFIX,mopub.com
 DOMAIN-SUFFIX,mountain.zhidao.baidu.com
@@ -596,7 +587,6 @@ DOMAIN,reklama.mail.ru
 DOMAIN-SUFFIX,relap.mail.ru
 DOMAIN,report.ap.yandex-net.ru
 DOMAIN-SUFFIX,report.qqweb.qq.com
-DOMAIN-SUFFIX,report.tencentmusic.com
 DOMAIN-SUFFIX,res.hunantv.com
 DOMAIN-SUFFIX,retcode.taobao.com
 DOMAIN-SUFFIX,reyun.com
@@ -658,7 +648,6 @@ DOMAIN-SUFFIX,ssp.api.tappx.com
 DOMAIN,stacks.vk-portal.net
 DOMAIN-SUFFIX,stat.chinaso.com
 DOMAIN-SUFFIX,stat.m.jd.com
-DOMAIN-SUFFIX,stat.y.qq.com
 DOMAIN-SUFFIX,static.hotjar.com
 DOMAIN-SUFFIX,static.javhd.com
 DOMAIN-SUFFIX,static.sensorsdata.cn
@@ -682,8 +671,6 @@ DOMAIN-SUFFIX,telecome.cn
 DOMAIN-SUFFIX,testads.api.my7v.com
 DOMAIN-SUFFIX,tjqonline.cn
 DOMAIN-SUFFIX,tm-banners.gamingadult.com
-DOMAIN-SUFFIX,tmead.y.qq.com
-DOMAIN-SUFFIX,tmeadcomm.y.qq.com
 DOMAIN-SUFFIX,tns.simba.taobao.com
 DOMAIN-SUFFIX,toboads.com
 DOMAIN-SUFFIX,top-fwz1.mail.ru
