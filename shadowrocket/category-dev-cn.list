@@ -90,6 +90,7 @@ DOMAIN,p7-juejin.byteimg.com
 DOMAIN,p8-juejin.byteimg.com
 DOMAIN,p9-juejin.byteimg.com
 DOMAIN-SUFFIX,pgyer.com
+DOMAIN-SUFFIX,php.cn
 DOMAIN-SUFFIX,phpweblog.net
 DOMAIN-SUFFIX,pingcap.cn
 DOMAIN-SUFFIX,pingcap.com
@@ -106,6 +107,7 @@ DOMAIN-SUFFIX,sifou.com
 DOMAIN-SUFFIX,sndu.cn
 DOMAIN-SUFFIX,sxl.cn
 DOMAIN-SUFFIX,sxlcdn.cn
+DOMAIN-SUFFIX,sxlcdn.com
 DOMAIN-SUFFIX,teachblog.net
 DOMAIN-SUFFIX,teleows.com
 DOMAIN-SUFFIX,tencent-cloud.cn

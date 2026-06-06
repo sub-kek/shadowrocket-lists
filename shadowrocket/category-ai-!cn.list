@@ -112,6 +112,7 @@ DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN,notebooklm.googleapis.com
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaistatsig.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,ollama.com
 DOMAIN-SUFFIX,opal.google
@@ -137,8 +138,10 @@ DOMAIN,pplx-res.cloudinary.com
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN-SUFFIX,qoder.com
 DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
 DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX,sider.ai
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,spicywriter.com
 DOMAIN-SUFFIX,stitch.withgoogle.com
