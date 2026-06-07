@@ -1991,6 +1991,7 @@ DOMAIN-SUFFIX,civilsoftware.net
 DOMAIN-SUFFIX,civitai.com
 DOMAIN,cl1-cdn.origin-apple.com.akadns.net
 DOMAIN,cl2-cdn.origin-apple.com.akadns.net
+DOMAIN,cl2.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,cl3-cdn.origin-apple.com.akadns.net
 DOMAIN,cl4-cdn.origin-apple.com.akadns.net
 DOMAIN,cl5-cdn.origin-apple.com.akadns.net
@@ -3947,7 +3948,6 @@ DOMAIN-SUFFIX,ibookpartner.com
 DOMAIN-SUFFIX,ibooksauthor.com
 DOMAIN-SUFFIX,ichat.co.in
 DOMAIN-SUFFIX,icloud-apple.cn
-DOMAIN,icloud-cdn.icloud.com.akadns.net
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud-isupport.com
 DOMAIN-SUFFIX,icloud-sandbox.com
@@ -5551,8 +5551,6 @@ DOMAIN-SUFFIX,oauthz.com
 DOMAIN-SUFFIX,objectarx.com
 DOMAIN-SUFFIX,observable.net
 DOMAIN-SUFFIX,obsrvbl.com
-DOMAIN,ocsp-lb.apple.com.akadns.net
-DOMAIN,ocsp2-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,octocaptcha.com
 DOMAIN-SUFFIX,ocul.us
 DOMAIN-SUFFIX,oculus-china.com
@@ -5704,7 +5702,6 @@ DOMAIN-SUFFIX,panasonic
 DOMAIN-SUFFIX,panasonic.cn
 DOMAIN-SUFFIX,panasonic.com
 DOMAIN-SUFFIX,panasonic.jp
-DOMAIN,pancake.cdn-apple.com.akadns.net
 DOMAIN-SUFFIX,panoramio.com
 DOMAIN-SUFFIX,pardot.com
 DOMAIN-SUFFIX,parse.com

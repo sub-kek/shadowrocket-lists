@@ -808,6 +808,7 @@ DOMAIN-SUFFIX,chomp.com
 DOMAIN-SUFFIX,ciattackers.com
 DOMAIN,cl1-cdn.origin-apple.com.akadns.net
 DOMAIN,cl2-cdn.origin-apple.com.akadns.net
+DOMAIN,cl2.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,cl3-cdn.origin-apple.com.akadns.net
 DOMAIN,cl4-cdn.origin-apple.com.akadns.net
 DOMAIN,cl5-cdn.origin-apple.com.akadns.net
@@ -1006,7 +1007,6 @@ DOMAIN-SUFFIX,ibookpartner.com
 DOMAIN-SUFFIX,ibooksauthor.com
 DOMAIN-SUFFIX,ichat.co.in
 DOMAIN-SUFFIX,icloud-apple.cn
-DOMAIN,icloud-cdn.icloud.com.akadns.net
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud-isupport.com
 DOMAIN-SUFFIX,icloud-sandbox.com
@@ -1413,8 +1413,6 @@ DOMAIN-SUFFIX,nflhotsalejerseys.com
 DOMAIN-SUFFIX,nicesshop.net
 DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
 DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
-DOMAIN,ocsp-lb.apple.com.akadns.net
-DOMAIN,ocsp2-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,offerairjordanlebron.com
 DOMAIN-SUFFIX,officialbeatsbydreshop.com
 DOMAIN-SUFFIX,officialbeatsbydrestore.com
@@ -1432,7 +1430,6 @@ DOMAIN,oscdn.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,outletbeatsshop.com
 DOMAIN-SUFFIX,overapple.com
 DOMAIN,p-events-delivery.akamaized.net
-DOMAIN,pancake.cdn-apple.com.akadns.net
 DOMAIN-SUFFIX,pascherbeatsmonster.com
 DOMAIN-SUFFIX,paulsimon-music.com
 DOMAIN-SUFFIX,perfectkickz.net
