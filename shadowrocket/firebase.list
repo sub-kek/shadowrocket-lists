@@ -1,4 +1,5 @@
-DOMAIN,firebase-settings.crashlytics.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN-SUFFIX,firebase.com
 DOMAIN,firebase.google.com
 DOMAIN,firebase.googleapis.com

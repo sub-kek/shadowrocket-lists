@@ -56,7 +56,7 @@ DOMAIN-SUFFIX,20yearsoffea.com
 DOMAIN-SUFFIX,21vbc.com
 DOMAIN-SUFFIX,21vbluecloud.com
 DOMAIN-SUFFIX,21vbluecloud.net
-DOMAIN,265.com
+DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,2beatsdre.com
 DOMAIN-SUFFIX,2buybeatsbydre.com
 DOMAIN-SUFFIX,2drdrebeats.com
@@ -2097,6 +2097,7 @@ DOMAIN-SUFFIX,cozydrdrebeats.com
 DOMAIN-SUFFIX,cpedge.com
 DOMAIN-SUFFIX,cqcorea.com
 DOMAIN-SUFFIX,crankplayer.com
+DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,createspace.com
 DOMAIN-SUFFIX,createwhatsnext.com
 DOMAIN-SUFFIX,creativecloud.com
@@ -3031,7 +3032,6 @@ DOMAIN-SUFFIX,find-apple.com
 DOMAIN-SUFFIX,findmybeats.com
 DOMAIN-SUFFIX,findmyipad.com
 DOMAIN-SUFFIX,fiotolia.com
-DOMAIN,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,firebase.com
 DOMAIN-SUFFIX,firebase.io
 DOMAIN-SUFFIX,firebaseapp.com
@@ -6668,7 +6668,6 @@ DOMAIN-SUFFIX,unity3dcloud.cn
 DOMAIN-SUFFIX,universalscalablefirmware.org
 DOMAIN-SUFFIX,unlocklimitlesslearning.com
 DOMAIN-SUFFIX,unstyle.us
-DOMAIN,update.crashlytics.com
 DOMAIN,updates-http.cdn-apple.com.akadns.net
 DOMAIN-SUFFIX,upfrontcfd.com
 DOMAIN-SUFFIX,upfrontfea.com
@@ -6689,6 +6688,7 @@ DOMAIN-SUFFIX,uweb.ru
 DOMAIN-SUFFIX,uwn.com
 DOMAIN-SUFFIX,uwpcommunitytoolkit.com
 DOMAIN-SUFFIX,v-has.com
+DOMAIN-SUFFIX,v.ps
 DOMAIN-SUFFIX,v8.dev
 DOMAIN-SUFFIX,v8project.org
 DOMAIN-SUFFIX,vagrantcloud.com
@@ -6878,6 +6878,7 @@ DOMAIN-SUFFIX,vortexmachining.com
 DOMAIN-SUFFIX,votolia.com
 DOMAIN-SUFFIX,vpro.com
 DOMAIN-SUFFIX,vpro.net
+DOMAIN-SUFFIX,vps.hosting
 DOMAIN-SUFFIX,vred-essentials.com
 DOMAIN-SUFFIX,vredessentials.com
 DOMAIN-SUFFIX,vredprofessional.com
@@ -7044,6 +7045,7 @@ DOMAIN-SUFFIX,www-sms-apple.com
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,www.destinationurl.com
 DOMAIN,www.pxcc.com
+DOMAIN,www.recaptcha-cn.net
 DOMAIN,www.recaptcha.net
 DOMAIN-SUFFIX,www8-hp.com
 DOMAIN-SUFFIX,wwwapple.com
@@ -7134,6 +7136,16 @@ DOMAIN-SUFFIX,xo.com
 DOMAIN-SUFFIX,xplr.co
 DOMAIN-SUFFIX,xrea.com
 DOMAIN-SUFFIX,xscale.com
+DOMAIN-SUFFIX,xtom.au
+DOMAIN-SUFFIX,xtom.com
+DOMAIN-SUFFIX,xtom.de
+DOMAIN-SUFFIX,xtom.ee
+DOMAIN-SUFFIX,xtom.hk
+DOMAIN-SUFFIX,xtom.jp
+DOMAIN-SUFFIX,xtom.nl
+DOMAIN-SUFFIX,xtom.sg
+DOMAIN-SUFFIX,xtom.social
+DOMAIN-SUFFIX,xtom.us
 DOMAIN-SUFFIX,xtracloud.cn
 DOMAIN-SUFFIX,xtracloud.net
 DOMAIN-SUFFIX,xuite.net
