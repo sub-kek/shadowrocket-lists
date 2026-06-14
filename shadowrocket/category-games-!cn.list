@@ -632,6 +632,7 @@ DOMAIN,steamcloudsweden.blob.core.windows.net
 DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,steamcommunity-a.akamaihd.net.edgesuite.net
 DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamconnecttest.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamdb.info
 DOMAIN-SUFFIX,steamdeck.com
