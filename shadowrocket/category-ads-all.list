@@ -424,6 +424,7 @@ DOMAIN,incoming.telemetry.mozilla.org
 DOMAIN,informer.yandex.ru
 DOMAIN-SUFFIX,inner-active.mobi
 DOMAIN-SUFFIX,innovid.com
+DOMAIN-SUFFIX,insights-collector.gog.com
 DOMAIN-SUFFIX,ipinyou.com
 DOMAIN-SUFFIX,ipinyou.com.cn
 DOMAIN-SUFFIX,ironbeast.io
@@ -748,6 +749,7 @@ DOMAIN-SUFFIX,yektanet.com
 DOMAIN-SUFFIX,yfanads.cn
 DOMAIN-SUFFIX,yfanads.com
 DOMAIN-SUFFIX,ylog.hiido.com
+DOMAIN-SUFFIX,youdaoads.com
 DOMAIN-SUFFIX,ysm.yahoo.com
 DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
 DOMAIN-SUFFIX,zhugeapi.com
