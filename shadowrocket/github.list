@@ -14,6 +14,7 @@ DOMAIN,github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
 DOMAIN,github-production-user-asset-6210df.s3.amazonaws.com
 DOMAIN-SUFFIX,github.ai
 DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.career
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,github.dev

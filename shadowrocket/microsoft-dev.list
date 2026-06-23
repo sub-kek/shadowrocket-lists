@@ -64,8 +64,11 @@ DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN,vscode-sync-insiders.trafficmanager.net
 DOMAIN,vscode-sync.trafficmanager.net
 DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN,vscode.blob.core.windows.net
 DOMAIN-SUFFIX,vscode.dev
 DOMAIN,vscode.search.windows.net
+DOMAIN-SUFFIX,vscodeedu.app
+DOMAIN-SUFFIX,vscodeedu.com
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN-SUFFIX,xamarin.com

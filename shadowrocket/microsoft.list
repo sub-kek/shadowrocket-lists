@@ -162,7 +162,6 @@ DOMAIN-SUFFIX,cosmosdb.net
 DOMAIN-SUFFIX,crmdynint-gcc.com
 DOMAIN-SUFFIX,crmdynint.com
 DOMAIN-SUFFIX,crossborderexpansion.com
-DOMAIN,default.exp-tas.com
 DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,devopsassessment.net
 DOMAIN-SUFFIX,devopsms.com
@@ -175,6 +174,7 @@ DOMAIN-SUFFIX,dynamics.com
 DOMAIN-SUFFIX,efproject.net
 DOMAIN-SUFFIX,elderscrolls.com
 DOMAIN-SUFFIX,engkoo.com
+DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,fasttrackreadysupport.com
 DOMAIN-SUFFIX,femalefounderscomp.com
 DOMAIN-SUFFIX,flightsimulator.com
@@ -206,6 +206,7 @@ DOMAIN,github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
 DOMAIN,github-production-user-asset-6210df.s3.amazonaws.com
 DOMAIN-SUFFIX,github.ai
 DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.career
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,github.dev
@@ -584,7 +585,10 @@ DOMAIN-SUFFIX,vsallin.net
 DOMAIN-SUFFIX,vsassets.io
 DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN-SUFFIX,vscode.dev
+DOMAIN-SUFFIX,vscodeedu.app
+DOMAIN-SUFFIX,vscodeedu.com
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN-SUFFIX,wbd.ms
 DOMAIN-SUFFIX,what-fan.net
