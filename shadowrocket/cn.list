@@ -385,7 +385,6 @@ DOMAIN-SUFFIX,activity05.com
 DOMAIN-SUFFIX,activitybyte.com
 DOMAIN-SUFFIX,acwifi.net
 DOMAIN-SUFFIX,acwing.com
-DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,adash.man.aliyuncs.com
 DOMAIN-SUFFIX,adbkwai.com
 DOMAIN-SUFFIX,adkwai.com
@@ -569,6 +568,7 @@ DOMAIN-SUFFIX,aocde.com
 DOMAIN-SUFFIX,aoshu.com
 DOMAIN-SUFFIX,aotrip.net
 DOMAIN-SUFFIX,aoyou.com
+DOMAIN-SUFFIX,ap-southeast-1.aliyuncs.com
 DOMAIN-SUFFIX,apaas-zone-test.com
 DOMAIN-SUFFIX,apabi.com
 DOMAIN-SUFFIX,apcdns.net
@@ -1325,6 +1325,8 @@ DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,cmpay.com
 DOMAIN-SUFFIX,cmread.com
 DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,cn.pool.ntp.org
 DOMAIN-SUFFIX,cnanzhi.com
 DOMAIN-SUFFIX,cnb.cool

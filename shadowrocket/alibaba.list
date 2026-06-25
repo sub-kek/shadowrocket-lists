@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,a-map.co
 DOMAIN-SUFFIX,a-map.link
 DOMAIN-SUFFIX,a-map.vip
 DOMAIN-SUFFIX,acloudrender.com
-DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,adash.man.aliyuncs.com
 DOMAIN-SUFFIX,ae-rus.net
 DOMAIN-SUFFIX,aedns.ru
@@ -113,6 +112,7 @@ DOMAIN-SUFFIX,antfin.com
 DOMAIN-SUFFIX,antfortune.com
 DOMAIN-SUFFIX,antgroup-inc.cn
 DOMAIN-SUFFIX,antgroup.com
+DOMAIN-SUFFIX,ap-southeast-1.aliyuncs.com
 DOMAIN-SUFFIX,asczwa.com
 DOMAIN-SUFFIX,asczxcefsv.com
 DOMAIN-SUFFIX,asmlink.cn
@@ -128,6 +128,8 @@ DOMAIN-SUFFIX,cainiaoyizhan.com
 DOMAIN-SUFFIX,cdngslb.com
 DOMAIN-SUFFIX,cheng.xin
 DOMAIN-SUFFIX,cloudeagle.cn
+DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,cueme.cn
 DOMAIN-SUFFIX,damai.cn
