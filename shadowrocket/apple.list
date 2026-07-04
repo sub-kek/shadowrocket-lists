@@ -98,6 +98,7 @@ DOMAIN-SUFFIX,apple-pay.wang
 DOMAIN-SUFFIX,apple-store.cn
 DOMAIN-SUFFIX,apple-store.net
 DOMAIN-SUFFIX,apple-store.wang
+DOMAIN-SUFFIX,apple-studies.com
 DOMAIN-SUFFIX,apple-usa.net
 DOMAIN-SUFFIX,apple-watch.com.ru
 DOMAIN-SUFFIX,apple.ae
@@ -1084,7 +1085,6 @@ DOMAIN,inappcheck-cn.itunes-apple.com.akadns.net
 DOMAIN,inappcheck-lb.itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,incentivetravelgifts.com
 DOMAIN-SUFFIX,indiaipad.com
-DOMAIN,ingest.apple-studies.com
 DOMAIN,init-p01md-lb.push-apple.com.akadns.net
 DOMAIN,init-p01st-lb.push-apple.com.akadns.net
 DOMAIN,init-s01st-lb.push-apple.com.akadns.net
