@@ -80,6 +80,7 @@ DOMAIN-SUFFIX,comss.news
 DOMAIN-SUFFIX,comss.one
 DOMAIN-SUFFIX,comss.online
 DOMAIN-SUFFIX,comss.org
+DOMAIN-SUFFIX,copymonkey.app
 DOMAIN-SUFFIX,cups.online
 DOMAIN-SUFFIX,cybercrimecon.com
 DOMAIN-SUFFIX,dahlmessenger.com
@@ -150,12 +151,15 @@ DOMAIN-SUFFIX,facct.email
 DOMAIN-SUFFIX,fix-price.com
 DOMAIN-SUFFIX,flocktory.com
 DOMAIN-SUFFIX,flomni.com
+DOMAIN-SUFFIX,flowwow-images.com
+DOMAIN-SUFFIX,flowwow.com
 DOMAIN-SUFFIX,fon.bet
 DOMAIN-SUFFIX,fon.promo
 DOMAIN-SUFFIX,foto-planeta.com
 DOMAIN-SUFFIX,freeassange.tech
 DOMAIN-SUFFIX,freede.tech
 DOMAIN-SUFFIX,freedert.online
+DOMAIN-SUFFIX,funpay.com
 DOMAIN-SUFFIX,g-ib.ae
 DOMAIN-SUFFIX,g-ib.sg
 DOMAIN-SUFFIX,g-ib.us
@@ -167,6 +171,7 @@ DOMAIN-SUFFIX,genotek.am
 DOMAIN-SUFFIX,genotek.es
 DOMAIN-SUFFIX,genotek.eu
 DOMAIN-SUFFIX,genotek.health
+DOMAIN-SUFFIX,gerwin.io
 DOMAIN-SUFFIX,getsynapse.io
 DOMAIN-SUFFIX,gib-global.com
 DOMAIN-SUFFIX,gib.sg
@@ -388,6 +393,7 @@ DOMAIN-SUFFIX,paywb.com
 DOMAIN-SUFFIX,perekrestok.com
 DOMAIN-SUFFIX,pixonic.com
 DOMAIN-SUFFIX,pobeda.page
+DOMAIN-SUFFIX,polza.ai
 DOMAIN-SUFFIX,popmechanic.io
 DOMAIN-SUFFIX,premier.one
 DOMAIN-SUFFIX,premiumlive.site
@@ -407,6 +413,7 @@ DOMAIN-SUFFIX,reg.cloud
 DOMAIN-SUFFIX,reg.com
 DOMAIN-SUFFIX,reso-med.com
 DOMAIN-SUFFIX,restream-media.net
+DOMAIN-SUFFIX,robotext.io
 DOMAIN-SUFFIX,rocketozon.by
 DOMAIN-SUFFIX,roistat.com
 DOMAIN-SUFFIX,romanovs100.com
@@ -463,6 +470,7 @@ DOMAIN-SUFFIX,ru
 DOMAIN-SUFFIX,ru.ccb.com
 DOMAIN-SUFFIX,ru.com
 DOMAIN-SUFFIX,ru.net
+DOMAIN-SUFFIX,rugpt.io
 DOMAIN-SUFFIX,ruhub.tv
 DOMAIN-SUFFIX,runewsrt.com
 DOMAIN-SUFFIX,ruptly.agency
@@ -498,6 +506,7 @@ DOMAIN-SUFFIX,selectel.live
 DOMAIN-SUFFIX,servercore.com
 DOMAIN-SUFFIX,servercore.live
 DOMAIN-SUFFIX,servicepipe.tech
+DOMAIN-SUFFIX,sfunpay.com
 DOMAIN-SUFFIX,shedevrum.ai
 DOMAIN-SUFFIX,shop-rt.com
 DOMAIN-SUFFIX,sistema-capital.com
@@ -548,6 +557,7 @@ DOMAIN-SUFFIX,tilda.cc
 DOMAIN-SUFFIX,tilda.ws
 DOMAIN-SUFFIX,tildaapi.com
 DOMAIN-SUFFIX,tildacdn.com
+DOMAIN-SUFFIX,tildacdn.net
 DOMAIN-SUFFIX,timeweb.cloud
 DOMAIN-SUFFIX,timeweb.com
 DOMAIN-SUFFIX,tinkoff-group.com
@@ -557,6 +567,7 @@ DOMAIN-SUFFIX,tips.tips
 DOMAIN-SUFFIX,tochka-tech.com
 DOMAIN-SUFFIX,tochka.com
 DOMAIN-SUFFIX,tok.media
+DOMAIN-SUFFIX,tokenator.top
 DOMAIN-SUFFIX,trbcdn.net
 DOMAIN-SUFFIX,turbopages.org
 DOMAIN-SUFFIX,tvoyodbo.online
