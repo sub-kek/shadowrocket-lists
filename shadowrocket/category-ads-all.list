@@ -312,7 +312,6 @@ DOMAIN-SUFFIX,dc.letv.com
 DOMAIN-SUFFIX,decide.mixpanel.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,dig.bdurl.net
-DOMAIN,disney.my.sentry.io
 DOMAIN-SUFFIX,dn-growing.qbox.me
 DOMAIN-SUFFIX,doubleclick-cn.net
 DOMAIN-SUFFIX,doubleclick.cn
@@ -356,6 +355,7 @@ DOMAIN-SUFFIX,g1.tagtic.cn
 DOMAIN-SUFFIX,g3.letv.com
 DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,gemini.yahoo.com
+DOMAIN-SUFFIX,getsentry.com
 DOMAIN-SUFFIX,gia.jd.com
 DOMAIN-SUFFIX,gio.ren
 DOMAIN-SUFFIX,giocdn.com
@@ -518,8 +518,6 @@ DOMAIN,new-adv.ozon.ru
 DOMAIN-SUFFIX,ns1p.net
 DOMAIN-SUFFIX,nsclick.baidu.com
 DOMAIN-SUFFIX,nsclickvideo.baidu.com
-DOMAIN,o33249.ingest.sentry.io
-DOMAIN,o4504926511693824.ingest.sentry.io
 DOMAIN-SUFFIX,obs.mts.ru
 DOMAIN-SUFFIX,oct.pocoiq.cn
 DOMAIN-SUFFIX,ogury.co
@@ -623,12 +621,15 @@ DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,segmenthub.com
 DOMAIN-SUFFIX,segmentify.com
 DOMAIN-SUFFIX,sensors.umetrip.com.cn
+DOMAIN-SUFFIX,sentry-cdn.com
 DOMAIN,sentry-ng.g.smailru.net
 DOMAIN-SUFFIX,sentry.d.mi.com
 DOMAIN-SUFFIX,sentry.d.xiaomi.net
+DOMAIN-SUFFIX,sentry.dev
 DOMAIN,sentry.dev-my.com
 DOMAIN,sentry.dev-my.games
 DOMAIN,sentry.hetzner.company
+DOMAIN-SUFFIX,sentry.io
 DOMAIN,sentry.iptv.rt.ru
 DOMAIN,sentry.kontur.host
 DOMAIN,sentry.mindbox.ru
