@@ -3339,7 +3339,6 @@ DOMAIN-SUFFIX,golang.net
 DOMAIN-SUFFIX,golang.org
 DOMAIN,gonglchuangl.net
 DOMAIN,gongyichuangyi.net
-DOMAIN-SUFFIX,goo
 DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,good-apps.jp
 DOMAIN-SUFFIX,goodsdunk.net
@@ -4180,7 +4179,6 @@ DOMAIN-SUFFIX,instgram.com
 DOMAIN-SUFFIX,intagram.com
 DOMAIN-SUFFIX,intagrm.com
 DOMAIN-SUFFIX,intc.com
-DOMAIN-SUFFIX,intel
 DOMAIN-SUFFIX,intel-research.net
 DOMAIN-SUFFIX,intel-university-collaboration.net
 DOMAIN-SUFFIX,intel.ac
@@ -5829,10 +5827,6 @@ DOMAIN-SUFFIX,powershape.com
 DOMAIN-SUFFIX,powershellgallery.com
 DOMAIN-SUFFIX,powersrv.de
 DOMAIN-SUFFIX,powersunitedvr.com
-DOMAIN,practivate.adobe
-DOMAIN,practivate.adobe.ipp
-DOMAIN,practivate.adobe.newoa
-DOMAIN,practivate.adobe.ntp
 DOMAIN-SUFFIX,prcm.jp
 DOMAIN-SUFFIX,pricesearch.jp
 DOMAIN-SUFFIX,prime-video.com
