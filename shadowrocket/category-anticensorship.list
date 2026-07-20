@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,censorship.no
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,citizenlab.ca
 DOMAIN-SUFFIX,citizenlab.org
+DOMAIN-SUFFIX,clashyun.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,crustwebsites.net
 DOMAIN-SUFFIX,dat.foundation
@@ -76,7 +77,7 @@ DOMAIN-SUFFIX,stunnel.org
 DOMAIN-SUFFIX,telex.cc
 DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,tribler.org
-DOMAIN-SUFFIX,trojan-gfw.github.io
+DOMAIN,trojan-gfw.github.io
 DOMAIN-SUFFIX,tunsafe.com
 DOMAIN-SUFFIX,turkeyblocks.org
 DOMAIN-SUFFIX,twister.net.co
@@ -93,5 +94,5 @@ DOMAIN-SUFFIX,whonix.org
 DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wikiunblocked.org
 DOMAIN-SUFFIX,wireguard.com
-DOMAIN-SUFFIX,xtls.github.io
+DOMAIN,xtls.github.io
 DOMAIN-SUFFIX,zeronet.io
