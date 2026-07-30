@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,mozilla.cz
 DOMAIN-SUFFIX,mozilla.de
 DOMAIN-SUFFIX,mozilla.jp
 DOMAIN-SUFFIX,mozilla.lt
+DOMAIN,mozilla.map.fastly.net
 DOMAIN-SUFFIX,mozilla.net
 DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,mozilla.org.uk

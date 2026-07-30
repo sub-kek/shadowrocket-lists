@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibabacapital.com
 DOMAIN-SUFFIX,alibabachengdun.com
+DOMAIN-SUFFIX,alibabachengdun.net
 DOMAIN-SUFFIX,alibabacloud.co.in
 DOMAIN-SUFFIX,alibabacloud.com
 DOMAIN-SUFFIX,alibabacloud.com.au
@@ -35,6 +36,8 @@ DOMAIN-SUFFIX,alibabacorp.com
 DOMAIN-SUFFIX,alibabadesign.com
 DOMAIN-SUFFIX,alibabadns.com
 DOMAIN-SUFFIX,alibabadoctor.com
+DOMAIN-SUFFIX,alibabafonts.com
+DOMAIN-SUFFIX,alibabafoundation.com
 DOMAIN-SUFFIX,alibabafuturehotel.com
 DOMAIN-SUFFIX,alibabagroup.com
 DOMAIN-SUFFIX,alibabapictures.com
@@ -105,6 +108,7 @@ DOMAIN-SUFFIX,aliyunidaas.com
 DOMAIN-SUFFIX,aliyunpds.com
 DOMAIN-SUFFIX,alizhaopin.com
 DOMAIN-SUFFIX,alyms.cn
+DOMAIN-SUFFIX,alysm.cn
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,amap.net
 DOMAIN-SUFFIX,amapauto.com
@@ -165,6 +169,7 @@ DOMAIN-SUFFIX,etao.com
 DOMAIN-SUFFIX,fcapp.run
 DOMAIN-SUFFIX,feizhu.cn
 DOMAIN-SUFFIX,feizhu.com
+DOMAIN-SUFFIX,fengniaojipei.net
 DOMAIN-SUFFIX,fliggy.com
 DOMAIN-SUFFIX,fliggy.hk
 DOMAIN-SUFFIX,freshhema.com
@@ -179,6 +184,8 @@ DOMAIN-SUFFIX,hemaos.com
 DOMAIN-SUFFIX,hemashare.cn
 DOMAIN-SUFFIX,hichina.com
 DOMAIN-SUFFIX,hupan.com
+DOMAIN-SUFFIX,hzchengdun.com
+DOMAIN-SUFFIX,hzchengdun.net
 DOMAIN-SUFFIX,ialicdn.com
 DOMAIN-SUFFIX,ica-alliance.org
 DOMAIN-SUFFIX,iconfont.cn
@@ -307,6 +314,7 @@ DOMAIN-SUFFIX,taobao.org
 DOMAIN-SUFFIX,taobaocdn.com
 DOMAIN-SUFFIX,taobizhong.com
 DOMAIN-SUFFIX,taopiaopiao.com
+DOMAIN-SUFFIX,taotian.com
 DOMAIN-SUFFIX,tb.cn
 DOMAIN-SUFFIX,tbcache.com
 DOMAIN-SUFFIX,tbcdn.cn
@@ -316,6 +324,7 @@ DOMAIN-SUFFIX,teambition.net
 DOMAIN-SUFFIX,teambitionapis.com
 DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,tmall.hk
 DOMAIN-SUFFIX,tmall.ru
 DOMAIN-SUFFIX,tmalltv.com
 DOMAIN-SUFFIX,tmjl.ai
@@ -340,6 +349,8 @@ DOMAIN-SUFFIX,xiami.fm
 DOMAIN-SUFFIX,xiami.net
 DOMAIN-SUFFIX,xin.xin
 DOMAIN-SUFFIX,xinlingshou.cn
+DOMAIN-SUFFIX,xixikf.cn
+DOMAIN-SUFFIX,yisou.com
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,youku.tv
