@@ -28,7 +28,6 @@ DOMAIN-SUFFIX,ad.qq.com
 DOMAIN-SUFFIX,ad.qun.qq.com
 DOMAIN-SUFFIX,ad.sina.com.cn
 DOMAIN-SUFFIX,ad.toutiao.com
-DOMAIN-SUFFIX,ad.unimhk.com
 DOMAIN-SUFFIX,ad.us.sinaimg.cn
 DOMAIN-SUFFIX,ad.wang502.com
 DOMAIN-SUFFIX,ad.weixin.qq.com
@@ -48,7 +47,6 @@ DOMAIN-SUFFIX,adbkwai.com
 DOMAIN-SUFFIX,adbox.sina.com.cn
 DOMAIN-SUFFIX,adbutter.net
 DOMAIN-SUFFIX,adc.hpplay.cn
-DOMAIN-SUFFIX,addthisedge.com
 DOMAIN-SUFFIX,adeng.hpplay.cn
 DOMAIN,adeventtracker.spotify.com
 DOMAIN-SUFFIX,adfilter.imtt.qq.com
@@ -69,7 +67,6 @@ DOMAIN-SUFFIX,adnet.qq.com
 DOMAIN-SUFFIX,adnet.sohu.com
 DOMAIN-SUFFIX,adping.qq.com
 DOMAIN-SUFFIX,adpm.app.qq.com
-DOMAIN-SUFFIX,adq.chinaso.com
 DOMAIN-SUFFIX,ads-api.duolingo.com
 DOMAIN,ads-gate.wildberries.ru
 DOMAIN,ads-img.mozilla.org
@@ -246,9 +243,7 @@ DOMAIN-SUFFIX,c.sayhi.360.cn
 DOMAIN-SUFFIX,c.uaa.iqiyi.com
 DOMAIN-SUFFIX,cb.baidu.com
 DOMAIN-SUFFIX,cbjs.baidu.com
-DOMAIN-SUFFIX,cdn.advertserve.com
 DOMAIN-SUFFIX,cdn.banclip.com
-DOMAIN-SUFFIX,cdn.pocoiq.cn
 DOMAIN-SUFFIX,cdp.cloud.unity3d.com
 DOMAIN-SUFFIX,cfts1tifqr.com
 DOMAIN-SUFFIX,china-caa.org
@@ -287,7 +282,6 @@ DOMAIN-SUFFIX,cupid.iqiyi.com
 DOMAIN-SUFFIX,cxhub.ru
 DOMAIN-SUFFIX,da.hunantv.com
 DOMAIN-SUFFIX,da.mgtv.com
-DOMAIN-SUFFIX,das-rpt-log.ucloud.cn
 DOMAIN-SUFFIX,data.flurry.com
 DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
 DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
@@ -295,9 +289,9 @@ DOMAIN-SUFFIX,data.mistat.rus.xiaomi.com
 DOMAIN-SUFFIX,data.mistat.xiaomi.com
 DOMAIN-SUFFIX,dc.letv.com
 DOMAIN-SUFFIX,decide.mixpanel.com
+DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,dig.bdurl.net
 DOMAIN,disney.my.sentry.io
-DOMAIN-SUFFIX,dn-growing.qbox.me
 DOMAIN-SUFFIX,doubleclick-cn.net
 DOMAIN-SUFFIX,doubleclick.cn
 DOMAIN-SUFFIX,doubleclick.com
@@ -495,7 +489,6 @@ DOMAIN-SUFFIX,nsclickvideo.baidu.com
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,o4504926511693824.ingest.sentry.io
 DOMAIN-SUFFIX,obs.mts.ru
-DOMAIN-SUFFIX,oct.pocoiq.cn
 DOMAIN-SUFFIX,onesignal.com
 DOMAIN,openai.qualtrics.com
 DOMAIN-SUFFIX,optaim.com
@@ -524,16 +517,6 @@ DOMAIN-SUFFIX,pglstatp-snssdk-toutiao.com
 DOMAIN-SUFFIX,pglstatp-toutiao-b.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,pimlog.baidu.com
-DOMAIN,pinggai0.caixin.com
-DOMAIN,pinggai1.caixin.com
-DOMAIN,pinggai2.caixin.com
-DOMAIN,pinggai3.caixin.com
-DOMAIN,pinggai4.caixin.com
-DOMAIN,pinggai5.caixin.com
-DOMAIN,pinggai6.caixin.com
-DOMAIN,pinggai7.caixin.com
-DOMAIN,pinggai8.caixin.com
-DOMAIN,pinggai9.caixin.com
 DOMAIN-SUFFIX,pingjs.qq.com
 DOMAIN,pixel.rustore.ru
 DOMAIN,pixel.yandex.com
@@ -617,7 +600,6 @@ DOMAIN-SUFFIX,splash-ads.unitychina.cn
 DOMAIN,srch-telemeter10.g.smailru.net
 DOMAIN-SUFFIX,ssp.api.tappx.com
 DOMAIN,stacks.vk-portal.net
-DOMAIN-SUFFIX,stat.chinaso.com
 DOMAIN-SUFFIX,stat.m.jd.com
 DOMAIN-SUFFIX,static.hotjar.com
 DOMAIN-SUFFIX,static.javhd.com
