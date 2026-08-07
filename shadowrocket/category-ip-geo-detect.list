@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,ip-adress.com
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ip-api.io
 DOMAIN-SUFFIX,ip-api.ru
+DOMAIN,ip-check-perf.radar.cloudflare.com
 DOMAIN-SUFFIX,ip-check.info
 DOMAIN-SUFFIX,ip-score.com
 DOMAIN,ip.comss.net

@@ -133,7 +133,11 @@ DOMAIN-SUFFIX,cainiaoyizhan.com
 DOMAIN-SUFFIX,cdngslb.com
 DOMAIN-SUFFIX,cheng.xin
 DOMAIN-SUFFIX,cloudeagle.cn
+DOMAIN-SUFFIX,cn-beijing.aliyuncs.com
+DOMAIN-SUFFIX,cn-chengdu.aliyuncs.com
+DOMAIN-SUFFIX,cn-guangzhou.aliyuncs.com
 DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX,cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,cueme.cn
@@ -183,6 +187,7 @@ DOMAIN-SUFFIX,hemamax.com
 DOMAIN-SUFFIX,hemaos.com
 DOMAIN-SUFFIX,hemashare.cn
 DOMAIN-SUFFIX,hichina.com
+DOMAIN-SUFFIX,hotfix-api.aliyuncs.com
 DOMAIN-SUFFIX,hupan.com
 DOMAIN-SUFFIX,hzchengdun.com
 DOMAIN-SUFFIX,hzchengdun.net
@@ -290,6 +295,7 @@ DOMAIN-SUFFIX,pp.cn
 DOMAIN-SUFFIX,puata.info
 DOMAIN-SUFFIX,qingtingtrip.com
 DOMAIN-SUFFIX,quark.cn
+DOMAIN-SUFFIX,registry.aliyuncs.com
 DOMAIN-SUFFIX,rexpos.cn
 DOMAIN-SUFFIX,saee.org.cn
 DOMAIN-SUFFIX,shejijia.com
