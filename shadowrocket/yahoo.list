@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,aolcdn.com
 DOMAIN,cdn.js7k.com
 DOMAIN-SUFFIX,flic.kr
 DOMAIN-SUFFIX,flickr
@@ -5,6 +6,7 @@ DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flickr.net
 DOMAIN-SUFFIX,maktoob.com
 DOMAIN-SUFFIX,myguide.hk
+DOMAIN-SUFFIX,ouryahoo.com
 DOMAIN-SUFFIX,staticflickr.com
 DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,yahoo
@@ -162,6 +164,7 @@ DOMAIN-SUFFIX,yahooapis.com
 DOMAIN-SUFFIX,yahoodns.net
 DOMAIN-SUFFIX,yahoofinance.com
 DOMAIN-SUFFIX,yahoohealth.com
+DOMAIN-SUFFIX,yahooinc.com
 DOMAIN-SUFFIX,yahoomusic.com
 DOMAIN-SUFFIX,yahoosandbox.com
 DOMAIN-SUFFIX,yahoosportsbook.com
