@@ -417,7 +417,9 @@ DOMAIN-SUFFIX,tencentbyod.com
 DOMAIN-SUFFIX,tencentcdb.cn
 DOMAIN-SUFFIX,tencentcdb.com
 DOMAIN-SUFFIX,tencentcdb.com.cn
+DOMAIN-SUFFIX,tencentclb.cn
 DOMAIN-SUFFIX,tencentclb.com
+DOMAIN-SUFFIX,tencentclb.com.cn
 DOMAIN-SUFFIX,tencentcloud-aiot.com
 DOMAIN-SUFFIX,tencentcloud.com
 DOMAIN-SUFFIX,tencentcloudapi.com
@@ -441,6 +443,7 @@ DOMAIN-SUFFIX,tencenteiam.com
 DOMAIN-SUFFIX,tencentelasticsearch.com
 DOMAIN-SUFFIX,tencentid.com
 DOMAIN-SUFFIX,tencentidentity.com
+DOMAIN-SUFFIX,tencentmiying.com
 DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,tencentproxy.com
 DOMAIN-SUFFIX,tencentrio.com
@@ -451,6 +454,7 @@ DOMAIN-SUFFIX,tencentwepark.com
 DOMAIN-SUFFIX,tencentyun.com
 DOMAIN-SUFFIX,tendbcluster.com
 DOMAIN-SUFFIX,tendis.net
+DOMAIN-SUFFIX,tengmed.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,testjrzk.net.cn
 DOMAIN-SUFFIX,testmeet.cn
