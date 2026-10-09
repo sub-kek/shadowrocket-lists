@@ -98,7 +98,6 @@ DOMAIN,ads.icq.com
 DOMAIN,ads.mozilla.org
 DOMAIN-SUFFIX,ads.music.126.net
 DOMAIN,ads.rustore.ru
-DOMAIN-SUFFIX,ads.sber.ru
 DOMAIN-SUFFIX,ads.sina.com
 DOMAIN-SUFFIX,ads.sohu.com
 DOMAIN-SUFFIX,ads.trafficjunky.net
@@ -286,7 +285,6 @@ DOMAIN-SUFFIX,click.hunantv.com
 DOMAIN,click.rustore.ru
 DOMAIN-SUFFIX,click.uve.mobile.sina.cn
 DOMAIN-SUFFIX,click.uve.weibo.com
-DOMAIN-SUFFIX,clickstream.sberbank.ru
 DOMAIN-SUFFIX,cloudpush.iqiyi.com
 DOMAIN-SUFFIX,cm.baidu.com
 DOMAIN-SUFFIX,cnaa123.com
@@ -727,7 +725,6 @@ DOMAIN-SUFFIX,unityads.unitychina.cn
 DOMAIN-SUFFIX,upapi.net
 DOMAIN-SUFFIX,urchin.com
 DOMAIN-SUFFIX,v6-adashx.ut.taobao.com
-DOMAIN,visor.sberbank.ru
 DOMAIN-SUFFIX,wangmeng.baidu.com
 DOMAIN-SUFFIX,wapwbclick.mobile.sina.cn
 DOMAIN-SUFFIX,wbclick.mobile.sina.cn
@@ -750,7 +747,6 @@ DOMAIN,xapi.ozon.ru
 DOMAIN,xapi.ozonru.me
 DOMAIN,xray.mail.ru
 DOMAIN-SUFFIX,xy-log.tagtic.cn
-DOMAIN-SUFFIX,yabs.yandex.ru
 DOMAIN-SUFFIX,yads.tech
 DOMAIN-SUFFIX,yandex-metrica.ru
 DOMAIN-SUFFIX,yandexmetrica.com

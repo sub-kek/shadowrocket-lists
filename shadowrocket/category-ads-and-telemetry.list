@@ -246,6 +246,7 @@ DOMAIN-SUFFIX,c-adash.m.taobao.com
 DOMAIN-SUFFIX,c-nfa.jd.com
 DOMAIN-SUFFIX,c.sayhi.360.cn
 DOMAIN-SUFFIX,c.uaa.iqiyi.com
+DOMAIN-SUFFIX,cafe.github.com
 DOMAIN-SUFFIX,cb.baidu.com
 DOMAIN-SUFFIX,cbjs.baidu.com
 DOMAIN-SUFFIX,cdn.amplitude.com
@@ -269,9 +270,12 @@ DOMAIN-SUFFIX,click.uve.weibo.com
 DOMAIN-SUFFIX,cloudpush.iqiyi.com
 DOMAIN-SUFFIX,cm.baidu.com
 DOMAIN-SUFFIX,cnaa123.com
+DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,collector.xhamster.com
 DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
 DOMAIN-SUFFIX,contentabc.com
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN-SUFFIX,counter.yandex.ru
 DOMAIN-SUFFIX,cpro.baidu.com
 DOMAIN-SUFFIX,cpro.baidustatic.com
@@ -401,6 +405,8 @@ DOMAIN-SUFFIX,imglnkd.com
 DOMAIN-SUFFIX,imgstat.baidu.com
 DOMAIN-SUFFIX,imp.go.sohu.com
 DOMAIN-SUFFIX,impact-ad.jp
+DOMAIN,incoming-telemetry.thunderbird.net
+DOMAIN,incoming.telemetry.mozilla.org
 DOMAIN,informer.yandex.ru
 DOMAIN-SUFFIX,inner-active.mobi
 DOMAIN-SUFFIX,innovid.com
