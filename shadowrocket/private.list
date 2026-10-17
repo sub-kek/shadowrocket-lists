@@ -109,6 +109,8 @@ DOMAIN-SUFFIX,localdomain
 DOMAIN-SUFFIX,localhost
 DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
 DOMAIN-SUFFIX,localhost.sec.qq.com
+DOMAIN,localhost.weixin.qq.com
+DOMAIN,localhost.work.weixin.qq.com
 DOMAIN,miwifi.com
 DOMAIN-SUFFIX,my.router
 DOMAIN,oasisauth.h3c.com
