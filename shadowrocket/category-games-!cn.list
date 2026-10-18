@@ -25,7 +25,6 @@ DOMAIN-SUFFIX,armaplatform.com
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,artstationmedia.com
 DOMAIN-SUFFIX,artstorm.com
-DOMAIN-SUFFIX,asobostudio.com
 DOMAIN,assets.ppy.sh
 DOMAIN,avatargarenanow-a.akamaihd.net
 DOMAIN-SUFFIX,awayoutgame.com
@@ -114,6 +113,7 @@ DOMAIN-SUFFIX,curseforge.com
 DOMAIN-SUFFIX,cygames.co.jp
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN,d1unuk07s6td74.cloudfront.net
+DOMAIN,d348twzf7a8p5.cloudfront.net
 DOMAIN-SUFFIX,daoc.net
 DOMAIN-SUFFIX,darkageofcamelot.com
 DOMAIN-SUFFIX,darkness-risen.com
@@ -123,6 +123,7 @@ DOMAIN-SUFFIX,dawngatechronicles.com
 DOMAIN-SUFFIX,dayz.com
 DOMAIN-SUFFIX,deadspacegame.com
 DOMAIN-SUFFIX,demonware.net
+DOMAIN,devforum-uploads.s3.dualstack.us-east-2.amazonaws.com
 DOMAIN-SUFFIX,diablo.com
 DOMAIN-SUFFIX,diablo3.com
 DOMAIN-SUFFIX,diablo4.com
@@ -144,6 +145,7 @@ DOMAIN-SUFFIX,doom.com
 DOMAIN-SUFFIX,dota2.com
 DOMAIN-SUFFIX,dota2.com.cn
 DOMAIN-SUFFIX,dota2.wmsj.cn
+DOMAIN,doy2mn9upadnk.cloudfront.net
 DOMAIN-SUFFIX,dragonage.com
 DOMAIN-SUFFIX,dragonagekeep.com
 DOMAIN-SUFFIX,dragonagemovie.com
@@ -207,8 +209,6 @@ DOMAIN-SUFFIX,fire-emblem-heroes.com
 DOMAIN-SUFFIX,fireemblemawakening.com
 DOMAIN-SUFFIX,firesidegatherings.com
 DOMAIN-SUFFIX,fitgirl-repacks.site
-DOMAIN,flightsimulator.azureedge.net
-DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,flipnotestudio.com
 DOMAIN-SUFFIX,forgecdn.net
 DOMAIN-SUFFIX,fortnite-vod.akamaized.net
