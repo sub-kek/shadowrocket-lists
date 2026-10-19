@@ -933,6 +933,9 @@ DOMAIN-SUFFIX,konamiopen.jp
 DOMAIN-SUFFIX,konamisportsclub.jp
 DOMAIN-SUFFIX,konamistyle.jp
 DOMAIN-SUFFIX,koubaibu.jp
+DOMAIN,kp-config-smart-tv.akamaized.net
+DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+DOMAIN-SUFFIX,kp.yandex.net
 DOMAIN-SUFFIX,kpacg.com
 DOMAIN-SUFFIX,kraftonde.com
 DOMAIN-SUFFIX,kyurem.com

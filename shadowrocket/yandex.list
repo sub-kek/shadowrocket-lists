@@ -15,6 +15,8 @@ DOMAIN-SUFFIX,gogettaxi.org
 DOMAIN-SUFFIX,goup.ai
 DOMAIN-SUFFIX,hayya.ae
 DOMAIN-SUFFIX,kinopoisk.ru
+DOMAIN,kp-config-smart-tv.akamaized.net
+DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 DOMAIN-SUFFIX,market.ru
 DOMAIN-SUFFIX,meteum.ai
 DOMAIN-SUFFIX,my-manager-account.com
