@@ -590,6 +590,7 @@ DOMAIN-SUFFIX,famitsu.com
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,fandango.com
+DOMAIN-SUFFIX,fanfiction.net
 DOMAIN-SUFFIX,fanfictionero.com
 DOMAIN-SUFFIX,fast.com
 DOMAIN,favoritescc-hamivideo2.cdn.hinet.net
@@ -630,6 +631,7 @@ DOMAIN-SUFFIX,gaijin.net
 DOMAIN-SUFFIX,gaijinent.com
 DOMAIN-SUFFIX,game-repack.site
 DOMAIN-SUFFIX,gameapps.hk
+DOMAIN-SUFFIX,gamebanana.com
 DOMAIN-SUFFIX,gamebase.com.tw
 DOMAIN-SUFFIX,gamebiz.jp
 DOMAIN-SUFFIX,gamebusiness.jp
@@ -1381,6 +1383,7 @@ DOMAIN-SUFFIX,quanben.io
 DOMAIN-SUFFIX,quiltmc.org
 DOMAIN-SUFFIX,quixel.com
 DOMAIN-SUFFIX,quixel.se
+DOMAIN-SUFFIX,r2modman.com
 DOMAIN-SUFFIX,radgametools.com
 DOMAIN-SUFFIX,radiko-cf.com
 DOMAIN-SUFFIX,radiko.jp
@@ -1615,6 +1618,7 @@ DOMAIN-SUFFIX,steamdeck.com
 DOMAIN-SUFFIX,steamgames.com
 DOMAIN-SUFFIX,steaminventoryhelper.com
 DOMAIN,steammobile.akamaized.net
+DOMAIN-SUFFIX,steamos.cloud
 DOMAIN,steampipe-kr.akamaized.net
 DOMAIN,steampipe-partner.akamaized.net
 DOMAIN,steampipe.akamaized.net
@@ -1686,6 +1690,8 @@ DOMAIN-SUFFIX,thewonderful101.com
 DOMAIN-SUFFIX,thisisgame.com
 DOMAIN-SUFFIX,thisispolaris.com
 DOMAIN,thumbnail-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,thunderstore.io
+DOMAIN-SUFFIX,thunderstore.org
 DOMAIN-SUFFIX,tiberiumalliances.com
 DOMAIN-SUFFIX,tiburon.com
 DOMAIN-SUFFIX,tidal.com
@@ -1871,10 +1877,12 @@ DOMAIN-SUFFIX,worldoftanks.com
 DOMAIN-SUFFIX,worldoftanks.eu
 DOMAIN-SUFFIX,worldofwarcraft.com
 DOMAIN-SUFFIX,worldofwarplanes.com
+DOMAIN-SUFFIX,worldofwarships.asia
 DOMAIN-SUFFIX,worldofwarships.com
 DOMAIN-SUFFIX,worldseriesofwarzone.com
 DOMAIN-SUFFIX,wotblitz.com
 DOMAIN-SUFFIX,wowsblitz.com
+DOMAIN-SUFFIX,wplace.live
 DOMAIN-SUFFIX,ws-blau.com
 DOMAIN-SUFFIX,ws-tcg.com
 DOMAIN,ws.audioscrobbler.com
