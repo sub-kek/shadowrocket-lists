@@ -1128,7 +1128,7 @@ DOMAIN-SUFFIX,nentindo.net
 DOMAIN-SUFFIX,neoforged.net
 DOMAIN-SUFFIX,netflix.ca
 DOMAIN-SUFFIX,netflix.com
-DOMAIN,netflix.com.edgesuite.net
+DOMAIN-SUFFIX,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,netflixdnstest0.com
 DOMAIN-SUFFIX,netflixdnstest1.com
@@ -1559,7 +1559,7 @@ DOMAIN-SUFFIX,spore.com
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,spotify-everywhere.com
 DOMAIN-SUFFIX,spotify.com
-DOMAIN,spotify.com.edgesuite.net
+DOMAIN-SUFFIX,spotify.com.edgesuite.net
 DOMAIN-SUFFIX,spotify.design
 DOMAIN-SUFFIX,spotify.link
 DOMAIN,spotify.map.fastly.net
