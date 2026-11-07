@@ -9892,6 +9892,7 @@ DOMAIN-SUFFIX,greenplum.net
 DOMAIN-SUFFIX,greginhollywood.com
 DOMAIN-SUFFIX,gridaware.app
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grokbot.com
 DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,grooby.com
 DOMAIN-SUFFIX,groq.com
@@ -10868,6 +10869,7 @@ DOMAIN-SUFFIX,htanime.epizy.com
 DOMAIN-SUFFIX,htlvbooks.com
 DOMAIN-SUFFIX,html5rocks.com
 DOMAIN-SUFFIX,htnewbooks.com
+DOMAIN,http-intake.logs.us5.datadoghq.com
 DOMAIN-SUFFIX,httpfacebook.com
 DOMAIN-SUFFIX,httpsfacebook.com
 DOMAIN-SUFFIX,httpwwwfacebook.com

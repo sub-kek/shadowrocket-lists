@@ -4,3 +4,4 @@ DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,copilot-workspace.githubnext.com
 DOMAIN,copilotprodattachments.blob.core.windows.net
 DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN,production-copilot-host-westus.webpubsub.azure.com
