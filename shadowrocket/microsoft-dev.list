@@ -6,11 +6,13 @@ DOMAIN,az764295.vo.msecnd.net
 DOMAIN,bingsettingssearch.trafficmanager.net
 DOMAIN-SUFFIX,blazor.net
 DOMAIN-SUFFIX,botframework.com
+DOMAIN,builds.dotnet.microsoft.com
 DOMAIN-SUFFIX,codethemicrobit.com
 DOMAIN,default.exp-tas.com
 DOMAIN,developer.microsoft.com
 DOMAIN-SUFFIX,devopsassessment.net
 DOMAIN-SUFFIX,dot.net
+DOMAIN,dotnetcli.trafficmanager.net
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,dtlgalleryint.cloudapp.net
 DOMAIN-SUFFIX,gamesstack.com
@@ -49,6 +51,7 @@ DOMAIN-SUFFIX,reactorms.com.cn
 DOMAIN,rink.hockeyapp.net
 DOMAIN-SUFFIX,sankie.net
 DOMAIN-SUFFIX,sqlserveronlinux.com
+DOMAIN,sundry-star-net-geo.trafficmanager.net
 DOMAIN-SUFFIX,timelinestoryteller.com
 DOMAIN-SUFFIX,uwpcommunitytoolkit.com
 DOMAIN-SUFFIX,vfsforgit.com
@@ -67,6 +70,7 @@ DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN,vscode.blob.core.windows.net
 DOMAIN-SUFFIX,vscode.dev
+DOMAIN,vscode.download.prss.microsoft.com
 DOMAIN,vscode.search.windows.net
 DOMAIN-SUFFIX,vscodeedu.app
 DOMAIN-SUFFIX,vscodeedu.com

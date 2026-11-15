@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,buck.build
 DOMAIN-SUFFIX,buckbuild.com
 DOMAIN-SUFFIX,bugsnag.com
+DOMAIN,builds.dotnet.microsoft.com
 DOMAIN-SUFFIX,builtwithnix.org
 DOMAIN-SUFFIX,busybox.net
 DOMAIN-SUFFIX,calendarserver.org
@@ -114,6 +115,7 @@ DOMAIN-SUFFIX,dockerstatic.com
 DOMAIN-SUFFIX,docs.rs
 DOMAIN-SUFFIX,dot.net
 DOMAIN-SUFFIX,dotdeb.org
+DOMAIN,dotnetcli.trafficmanager.net
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN-SUFFIX,draftjs.org
 DOMAIN,dtlgalleryint.cloudapp.net
@@ -555,6 +557,7 @@ DOMAIN-SUFFIX,stockagainstphotography.com
 DOMAIN-SUFFIX,strikingly.com
 DOMAIN-SUFFIX,strikinglycdn.com
 DOMAIN-SUFFIX,sublimetext.com
+DOMAIN,sundry-star-net-geo.trafficmanager.net
 DOMAIN-SUFFIX,superuser.com
 DOMAIN-SUFFIX,swift.org
 DOMAIN-SUFFIX,swiftui.cn
@@ -615,6 +618,7 @@ DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN,vscode.blob.core.windows.net
 DOMAIN-SUFFIX,vscode.dev
+DOMAIN,vscode.download.prss.microsoft.com
 DOMAIN,vscode.search.windows.net
 DOMAIN-SUFFIX,vscodeedu.app
 DOMAIN-SUFFIX,vscodeedu.com
