@@ -148,7 +148,8 @@ DOMAIN,opentor.org
 DOMAIN,opentracker.acgnx.com
 DOMAIN,opentracker.acgnx.se
 DOMAIN,opentracker.io
-DOMAIN,opentrackr.org
+DOMAIN-SUFFIX,opentracker.xyz
+DOMAIN-SUFFIX,opentrackr.org
 DOMAIN,oscar.reyesleon.xyz
 DOMAIN,p2p.0g.cx
 DOMAIN,p2p.publictracker.xyz
@@ -332,7 +333,6 @@ DOMAIN,tracker.netmap.top
 DOMAIN,tracker.nighthawk.pw
 DOMAIN,tracker.open-internet.nl
 DOMAIN,tracker.openbittorrent.com
-DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.picotorrent.one
 DOMAIN,tracker.pirateparty.gr
 DOMAIN,tracker.plx.im
@@ -427,5 +427,6 @@ DOMAIN,y.t-1.org
 DOMAIN,yolo.liberbear.com
 DOMAIN-SUFFIX,yuwabits.net
 DOMAIN,z.paranoid.agency
+DOMAIN-SUFFIX,zer0day.ch
 DOMAIN-SUFFIX,zone-torrent.net
 DOMAIN,zupix.online
